@@ -1,0 +1,2614 @@
+R E T N I N G S L I N J E R
+Retningslinjer for stenge-  
+og tappeorganer, rør og  
+tverrslagsporter
+1
+2011
+1 
+ 
+Retningslinjer for  
+stenge- og tappeorganer,  
+rør og tverrslagsporter 
+til §§ 5-14 og 5-15 i  
+forskrift om sikkerhet ved vassdragsanlegg 
+ 
+ 
+ 
+Norges vassdrags- og energidirektorat 
+2011 
+2 
+ 
+Retningslinjer nr. 1/2011   
+Retningslinjer for stenge- og tappeorganer, rør og 
+tverrslagsporter 
+ 
+Utgitt av: 
+Norges vassdrags- og energidirektorat 
+Redaktør: 
+Dag Bachke, NVE 
+Forfattere: 
+Ivar Elstad, Norconsult 
+Ragnar Hartmann, SWECO 
+Gjermund Molle, Statkraft 
+Dag Bachke, NVE 
+ 
+ 
+ 
+ 
+Trykk: 
+NVEs hustrykkeri 
+Opplag: 
+100 
+Forside: 
+Rørgate til Bøylefoss kraftstasjon. Foto: Roar Sivertsgård, NVE 
+ISSN: 
+1501-9810 
+ 
+ 
+ 
+Sammendrag: Retningslinjer for stenge- og tappeorganer, rør og tverrslagsporter 
+utdyper bestemmelser gitt i forskrift om sikkerhet ved 
+vassdragsanlegg (damsikkerhetsforskriften) §§ 5-14 og 5-15. 
+Retningslinja erstatter foreløpig utgave av mars 2009 
+ 
+Emneord: 
+Luker, ventiler, tverrslagsporter, rør, laster, påvirkninger, 
+dimensjonering 
+ 
+Norges vassdrags- og energidirektorat 
+Middelthunsgate 29 
+Postboks 5091 Majorstua 
+0301 OSLO 
+ 
+Telefon: 22 95 95 95 
+Telefaks: 22 95 90 00 
+Internett: www.nve.no 
+ 
+Februar 2011 
+3 
+ 
+Innhold 
+Forord .................................................................................................. 6 
+Sammendrag ....................................................................................... 7 
+1 
+Generelt......................................................................................... 8 
+2 
+Laster............................................................................................. 9 
+2.1 
+Generelt......................................................................................... 9 
+2.2 
+Permanente laster ......................................................................... 9 
+2.3 
+Variable laster...............................................................................10 
+2.4 
+Ulykkeslaster ................................................................................11 
+2.5 
+Lastfaktorer...................................................................................11 
+3 
+Materialer..................................................................................... 12 
+3.1 
+Generelt........................................................................................12 
+3.2 
+Stål ...............................................................................................13 
+3.3 
+Støpejern......................................................................................13 
+3.4 
+Aluminium.....................................................................................13 
+3.5 
+Glassfiberarmert umettet polyester (GRP-rør)...............................14 
+3.6 
+Polyetylen (PE-rør) .......................................................................14 
+3.7 
+Trematerialer ................................................................................14 
+3.8 
+Betongmaterialer ..........................................................................14 
+3.9 
+Bruksområde for stenge-/tappeorganer.........................................14 
+3.10 
+Bruksområde for rør....................................................................15 
+4 
+Dimensjonering .......................................................................... 16 
+4.1 
+Generelt........................................................................................16 
+4.2 
+Dimensjonering av stålkonstruksjoner inkl. stålrør ........................17 
+4.3 
+Dimensjonering av aluminiumskonstruksjoner ..............................18 
+4.4 
+Dimensjonering av duktile støpejernsrør.......................................18 
+4.5 
+Dimensjonering av GRP- rør.........................................................18 
+4.6 
+Dimensjonering av PE-rør.............................................................19 
+4.7 
+Dimensjonering av trekonstruksjoner ............................................19 
+4.8 
+Dimensjonering av armert gummiduk............................................19 
+5 
+Spesielle bestemmelser for stenge-/tappeorgan..................... 19 
+5.1 
+Utforming......................................................................................19 
+5.2 
+Dimensjonering.............................................................................19 
+5.3 
+Manøvreringsutstyr og manøvrering .............................................21 
+5.4 
+Tekniske planer, idriftsettelse og sluttrapport ................................22 
+6 
+Spesielle bestemmelser for rør og fundamenter ..................... 22 
+6.1 
+Utforming......................................................................................22 
+6.2 
+Dimensjonering av rør...................................................................23 
+6.3 
+Dimensjonering av betongfundament............................................24 
+6.4 
+Stabilitetskrav for nedgravde rør ...................................................25 
+6.4.1 
+Glidning................................................................................25 
+6.4.2 
+Avvinkling.............................................................................25 
+4 
+ 
+6.5 
+Transport, håndtering og lagring av rør........................................ 26 
+6.6 
+Tekniske planer og bygging ......................................................... 26 
+6.7 
+Idriftsettelse og sluttrapport.......................................................... 27 
+6.8 
+Tilsyn med rør.............................................................................. 27 
+7 
+Referanser ...................................................................................28 
+Vedlegg A. 
+Materialer/ Stål............................................................30 
+Vedlegg B. 
+Dimensjonering generelt ...........................................31 
+B. 1 
+Bruk av sikkerhetsfaktorer eller leverandørregler ....................... 31 
+B. 2 
+Dimensjonerende levetid, utmatting ........................................... 31 
+B. 3 
+Beskyttelse mot nedbrytning ...................................................... 32 
+Vedlegg C. 
+Stenge- og tappeorganer, luker ................................34 
+C. 1 
+Lukeblad og porter, plan- og skallkonstruksjoner, lukelager ....... 34 
+C. 2 
+Platekasse ................................................................................. 34 
+C. 3 
+Manøvreringsutstyr .................................................................... 35 
+C. 4 
+Glideluker................................................................................... 36 
+C. 5 
+Rulleluker................................................................................... 36 
+C. 6 
+Segmentluker............................................................................. 36 
+C. 7 
+Klappeluker................................................................................ 37 
+C. 8 
+Gummiluker................................................................................ 37 
+C. 9 
+Sektorluke.................................................................................. 38 
+C. 10 
+Valseluke................................................................................ 38 
+Vedlegg D. 
+Stenge- og tappeorganer, stengsler .........................39 
+Vedlegg E. 
+Stenge- og tappeorganer, ventiler ............................40 
+E. 1 
+ Ventilfunksjoner......................................................................... 40 
+E. 2 
+ Dimensjonering ......................................................................... 40 
+E. 3 
+ Rørbruddsventil......................................................................... 41 
+Vedlegg F. 
+Stengeorganer, tverrslagsporter...............................43 
+F. 1 
+ Hoveddeler................................................................................ 43 
+F. 2 
+ Dimensjonering ......................................................................... 43 
+F. 3 
+ Utførelse ................................................................................... 44 
+Vedlegg G. 
+Rør og fundamentering..............................................45 
+G. 1 
+Rør generelt - dimensjonering og utførelse ................................ 45 
+G. 1.1 
+Rør generelt........................................................................ 45 
+G. 1.2 
+Bend og forgreninger .......................................................... 45 
+G. 1.3 
+Flensforbindelser................................................................. 45 
+G. 1.4 
+Koblinger............................................................................. 46 
+G. 2 
+Fundamentering av frittliggende rør............................................ 47 
+G. 2.1 
+Fundamenttyper.................................................................. 47 
+G. 2.2 
+Forankringsfundament ........................................................ 47 
+G. 2.3 
+Mellomfundament................................................................ 47 
+G. 2.4 
+Systemstabilitet, samvirke rør og fundament....................... 48 
+G. 3 
+Fundamentering av nedgravde rør ............................................. 48 
+G. 3.1 
+Rørgrøft og omfylling........................................................... 48 
+5 
+ 
+G. 3.2 
+Tiltak mot utvasking .............................................................49 
+G. 3.3 
+Sikring mot aksiell forskyvning og utknekking.......................49 
+G. 3.4 
+Strekkfaste rør uten ekspansjonsboks .................................49 
+G. 4 
+Innstøpte rør ...............................................................................49 
+G. 4.1 
+Rørets ulike partier...............................................................49 
+G. 4.2 
+Dimensjonering....................................................................50 
+G. 5 
+Kommentarer knyttet til ulike rørtyper..........................................51 
+G. 5.1 
+Stålrør..................................................................................51 
+G. 5.2 
+Duktile støpejernsrør............................................................52 
+G. 5.3 
+GRP-rør ...............................................................................54 
+G. 5.4 
+PE-rør ..................................................................................56 
+G. 5.5 
+Trerør...................................................................................57 
+G. 5.6 
+Betongrør.............................................................................58 
+Vedlegg H. 
+Vurdering av eldre konstruksjoner........................... 59 
+H. 1 
+Generelle betraktninger...............................................................59 
+H. 2 
+Eldre stål.....................................................................................59 
+H. 3 
+Eldre materialers mekaniske egenskaper....................................60 
+H. 4 
+Beregningskontroll ......................................................................61 
+H. 5 
+Spesielt for stenge-/tappeorganer ...............................................61 
+H. 6 
+Spesielt for rør ............................................................................62 
+ 
+ 
+7 
+Sammendrag 
+Retningslinjer for stenge- og tappeorganer, rør og tverrslagsporter utdyper bestemmelser 
+gitt i forskrift om sikkerhet ved vassdragsanlegg [1] (damsikkerhetsforskriften) §§ 5-14 
+og 5-15, og gir uttrykk for den praksis som NVE vil følge i sin saksbehandling for å påse 
+at kravene i forskriften oppfylles. Andre løsninger enn de som er anført i retningslinja kan 
+aksepteres dersom like god sikkerhet kan dokumenteres. 
+Retningslinja gjelder for anlegg i konsekvensklasse 1 og høyere, men NVE anbefaler at 
+den også brukes for anlegg i konsekvensklasse 0, og med samme standard ved 
+prosjektering som for anlegg i klasse 1. Dette gjelder spesielt for anlegg som er bygget på 
+grunnlag av konsesjon etter vassdragslovgivningen, der det alltid er NVE som står for 
+byggesaksbehandlingen inklusiv godkjenning av tekniske planer. 
+I retningslinja er det inkludert et Vedlegg A – H, med mer detaljerte opplysninger og 
+beskrivelser av anleggskomponenter og utførelse. Dette er utfyllende materiale og data 
+som er ment å skulle brukes sammen med retningslinja. 
+ 
+ 
+ 
+8 
+1 Generelt 
+Stenge- og tappeorganer er alle typer luker, ventiler og andre innretninger med formål 
+stenging, tapping, regulering og avledning av vannføring. Med rør menes rør for transport 
+av vann fra magasin til kraftstasjon, eller mellom magasiner, inklusive fundamenter og 
+komponenter som naturlig hører til disse rørene. Med tverrslagsport forstås gang- eller 
+kjøreport for adkomst til vannvei i tunnel eller bergrom. 
+Retningslinjer for stenge- og tappeorganer, rør og tverrslagsporter utdyper bestemmelser 
+gitt i forskrift om sikkerhet ved vassdragsanlegg [1] (damsikkerhetsforskriften) §§ 5-14 
+og 5-15, og gir uttrykk for den praksis som NVE vil følge i sin saksbehandling for å påse 
+at kravene i forskriften oppfylles. Andre løsninger enn de som er anført i retningslinja kan 
+aksepteres dersom like god sikkerhet kan dokumenteres. 
+Bruddkonsekvenser for alle stenge- og tappeorganer, rør og tverrslagsporter skal 
+bestemmes i forbindelse med klassifisering av dam eller vannvei, jf. 
+damsikkerhetsforskriften § 4-1. Det fastsettes en samlet konsekvensklasse for hver dam 
+eller vannvei. Denne klassen bestemmes av bruddkonsekvensene for den anleggsdelen 
+eller den anleggskomponenten som har størst bruddkonsekvens med hensyn til 
+bruddvannføring, vannstandsendring eller vannstråle.  
+Ved bygging og fornyelse skal tekniske planer utarbeides av kvalifisert fagperson 
+innenfor aktuelle fagområder tilknyttet fagområde III stenge- og tappeorganer, rør og 
+tverrslagsporter. NVE-godkjent fagansvarlig i fagområde III skal utføre/kontrollere 
+planene i henhold til krav gitt i damsikkerhetsforskriften § 5-2. Dette kan også gjelde 
+planer for anleggskomponenter/anleggsdeler som ikke inngår i fagområde III, men som 
+den godkjente fagansvarlige har kompetanse til, jf. damsikkerhetsforskriften § 2-6 andre 
+ledd. Dersom fagansvarlig selv ikke innehar f.eks. betongkompetanse skal han sørge for 
+at betongfundamenter, tverrslagsporter og lignende blir prosjektert av personer med slik 
+kompetanse. Tilsvarende gjelder hvis geotekniske problemstillinger inngår i planene. 
+NVE kan kreve framlagt dokumentasjon på at tekniske planer er utført og kontrollert av 
+personer med tilstrekkelig kompetanse, jf. damsikkerhetsforskriften § 8-1.  
+Bygging og fornyelse foretas av foretak med godkjenning i henhold til forskrift om 
+godkjenning av foretak for ansvarsrett (GOF), jf. damsikkerhetsforskriften § 3-5, § 3-7 og 
+§ 3-8.   
+Ved planlegging av stenge- og tappeorganer, rør og tverrslagsporter, skal tekniske planer 
+sendes NVE til godkjenning i god tid før byggestart, jf. damsikkerhetsforskriften § 5-2. 
+Alle planer og beregninger skal presenteres på en klar og oversiktlig måte. 
+For konsesjonsgitte anlegg skal også miljø- og landskapsplaner være sendt inn og 
+godkjent av NVE før arbeider kommer til utførelse, jf. konsesjonsvilkår. 
+Ved bygging (produksjon i verksted og montasje på anlegg) av stenge- og tappeorganer, 
+rør og tverrslagsporter, skal det utarbeides kontrollplan og sluttrapport, jf. 
+damsikkerhetsforskriften § 6-1. 
+ 
+ 
+9 
+2 Laster  
+2.1 Generelt 
+Det vises generelt til damsikkerhetsforskriften § 5-3 og retningslinjer for laster og 
+dimensjonering [2]. 
+En vurdering av relevante laster må inkludere alle faser i et anleggs levetid; dvs. under 
+bygging og ved idriftsettelse med første gangs belastning/oppfylling og i driftsituasjoner.  
+Aktuelle lastgrupper er permanente laster, variable laster og ulykkeslaster. 
+Permanente og variable laster kombineres på ugunstigste måte så sant kombinasjonen er 
+fysisk mulig. Ulykkeslaster regnes enkeltvis sammen med de permanente lastene. 
+Karakteristiske laster er aktuelle kombinasjoner av forannevnte laster uten lastfaktorer. 
+Ved beregning med faste sikkerhetsfaktorer legges karakteristisk last til grunn. 
+Dimensjonerende last er karakteristisk last multiplisert med en lastfaktor γf, som ideelt 
+sett gjenspeiler usikkerhet ved lastfastsettelse.  
+2.2 Permanente laster 
+I tillegg til definisjonene i damsikkerhetsforskriften § 5-3 a) og retningslinjer for laster og 
+dimensjonering, kan følgende permanente laster defineres for stenge- og tappeorganer, 
+rør og tverrslagsporter:  
+Overtrykk: Dette refereres til høyeste normale statiske trykk, normalt definert som 
+høyeste regulerte vannstand (HRV). Hvis det har betydning for dimensjonering, 
+kontrolleres det også for bestemmende lavt statisk trykk eller lavt overvannsnivå (LRV). 
+Undertrykk: Dette oppstår under eller nedstrøms visse luker avhengig av lufting. Ved rør 
+kan det bli undertykk hvis røret blir liggende over vannveiens trykklinje. Varighet er 
+avgjørende for hvor vidt angitt last skal defineres som permanent last. 
+Utvendig vanntrykk: For platekasser nedstrøms injeksjonsskjerm/tetningsskjerm, skal det 
+antas at utvendig trykk endres lineært fra høyeste statiske vanntrykk til 1/3 av høyeste 
+vanntrykk ved nedstrøms avslutning. Ved tappeluker skal en imidlertid benytte fullt 
+statisk trykk fram til platekassens nedstrøms avslutning. For innstøpte rør nedstrøms 
+injeksjonsskjerm fastsettes utvendig vanntrykk ut fra geologiske forhold, målt/beregnet 
+poretrykk, overdekning, avstand til drenerende hulrom, etc. Nedgravde og sjølagte rør 
+kan få utvendig vanntrykk avhengig av forholdene. 
+Utvendig jordtrykk: For rør fastlegges utvendig jordtrykk ut fra anerkjent standard eller 
+regelverk. Ved fastleggelse tas det hensyn til overdekning, omfyllingsmasse og utførelse. 
+Trykkdifferanser: Ved innvendig og utvendig trykk som er innbyrdes koblet, settes 
+trykkdifferansen til minst 10 % av største trykk og ikke mindre enn 0,1 MPa (eller 10 m 
+vannsøyle). For innløpskonuser samt lukers platekasser, fastlegges trykkdifferanse 
+oppstrøms injeksjonsskjerm/tetningstverrsnitt som differansen mellom utvendig 
+vanntrykk og innvendig statisk trykk fratrukket maksimal hastighetshøyde. Nedstrøms 
+ 
+ 
+10 
+tetningstverrsnitt, er innvendig trykk lik atmosfæretrykk, eventuelt et undertrykk hvis 
+dette kan forekomme. Utvendig trykk forutsettes å endre seg langsomt og kan derfor ha 
+etterslep i forhold til bestemmende statisk trykk.  
+2.3 Variable laster 
+I forhold til damsikkerhetsforskriften § 5-3 b) og retningslinjer for laster og 
+dimensjonering [2] gjøres følgende presiseringer: 
+Overtrykk: Her inngår flomstigning ved dimensjonerende flom (DFV), trykkstigning 
+(trykkstøt) og/eller svingegrenser grunnet manøvrering av luke/ventil og/eller 
+pumpe/turbinregulering. Hvis det har dimensjoneringsmessig betydning, skal det 
+kontrolleres for både høyeste og laveste nivå. For vannvei beregnes karakteristisk verdi ut 
+fra den vannføringsendring og den stasjonære driftstilstand som samlet gir ugunstigst 
+resultat. Fastlagt last kontrolleres ved anleggsmåling. Det skal tas hensyn til at lokal 
+trykkvariasjon regnet i prosent av lokalt statisk trykk varierer langs vannveien.  
+Ved luker og annet utstyr i konsekvensklasse 2 og høyere, plassert mot magasiner, 
+vurderes det om disse skal kontrolleres for effekt av bølger, vindoppstuvning, etc.   
+Undertrykk: Ved luftinnslipping gjennom lufterør eller luftinnslippingsventil, kan 
+karakteristisk undertrykk nedstrøms stengeorganet beregnes fra en luftstrøm tilsvarende 
+fullastvannføring i kraftverksrør eller maksimal tømmekapasitet for pumperør. Kan annet 
+ikke dokumenteres tilfredsstillende, settes undertrykket til minst 0,03 MPa eller 3,0 m 
+vannsøyle. For tappeluker med lukket vannvei nedstrøms fastlegges undertrykket på 
+grunnlag av tappevannføringen.  
+Strømningslast: Strømningslast er dynamiske laster fra vannstrømming som kan være 
+permanente, eksempelvis ved en fast endring av strømningsretningen, eller variable. For 
+de siste skal utmattingseffekten vurderes.  
+Aktuelle analyser kan omfatte utmattingssikkerhet og resonansrisiko. Det sistnevnte 
+består i å sammenlikne lastfrekvens med konstruksjonens egensvingefrekvens.  
+Trafikklast: Foruten lastens karakter og størrelse skal det tas hensyn til overdekning samt 
+rørgrøftens og omfyllingsmassenes egenskaper. Som minimum regnes 80 kN akseltrykk 
+fordelt på 2 flater på 0,2 x 0,3 m og hjulavstand 2,0 m. For veier vises det til 
+retningslinjer fra Statens vegvesen. 
+Snø- og vindlast: Belastning på frittliggende rør bestemmes i henhold til NS 3491.  
+Tilleggslast grunnet jordsig, snøsig, fullstendig nedsnøing eller issvelling vurderes ut fra 
+lokale forhold og avgjør hvorvidt belastningene skal regnes som variabel last eller 
+ulykkeslast, jf. også pkt. 2.4. 
+Islast: Det kan tas hensyn til stivhetsforskjell mellom luke og tilgrensende 
+bygningskonstruksjoner samt at is i noen tilfeller løftes hvis lukefronten er sterkt 
+skrånende og isen ikke fryser fast til denne. 
+Temperatur: Last grunnet temperaturvariasjon i innspente konstruksjonsdeler innendørs, i 
+tunneler eller nedgravd i grøft, fastlegges for temperaturvariasjon mellom 0 °C og + 15 
+°C til + 25 °C avhengig av forholdene. For utendørs konstruksjoner som står delvis i 
+kontakt med vann, settes laveste temperatur lik - 10 °C. For utendørs konstruksjoner som 
+ikke utveksler varme med vannet eller kan være tømt, settes laveste og høyeste 
+ 
+ 
+11 
+temperatur ut fra stedlige forhold. Ved konstruksjoner utsatt for sollys kan det forutsettes 
++ 40 °C. 
+Jordskjelvlast: Lasttypen skal vurderes for luker og rør i konsekvensklasse 3  
+og høyere. 
+2.4 Ulykkeslaster 
+Det må alltid gjøres en individuell vurdering av hvilke ulykkeslaster som kan opptre. I 
+tillegg til de ulykkeslaster som er beskrevet i damsikkerhetsforskriften § 5-3 c) og i 
+retningslinjer for laster og dimensjonering [2] herunder forhold ved PMF-flom, kan 
+følgende laster være aktuelle for stenge- og tappeorganer, rør og tverrslagsporter: 
+I Innvendig undertrykk som følge av unormale driftsforhold eller ising i inntak 
+eller lufterør. Undertrykket settes lik 0,1 MPa eller 10 m vannsøyle. 
+I Belastning som følge av svikt. Hvis flomluke ikke åpner under flom, settes 
+resulterende flomvannstand som ulykkeslast. 
+I Trykkvariasjoner som følge av momentan avstengning skal vurderes for 
+konstruksjoner i konsekvensklasse 3 og høyere.  
+I Last på grunn av ras av stein, løsmasse eller snø mot rør og fundamenter skal 
+vurderes, jf. også pkt. 2.3.  
+I Unormal vannstand på grunn av ras inn i magasin eller ras i vannvei skal 
+vurderes.  
+Spesiell engangslast som ulykkeslast kan være: 
+I Trykkprøving og tetthetsprøving. 
+I Last som følge av innstøping eller injisering. 
+I Spesielle laster ved produksjon, transport og montasje. 
+I Poretrykk i rørgrøft  
+I Last på installert konstruksjon som følge av tunnelutslag under vann.  
+Avhengig av hvilke marginer som legges i lastfastsettelsen, kan det være påkrevd 
+å anvende større lastfaktorer enn angitt i tabell 2.1 i kapittel 2.5. 
+ 
+Laster som virker på nødstengeorgan ved nødstenging skal ikke anses som 
+ulykkeslast. 
+2.5 Lastfaktorer 
+Generelt vises det til pkt. 1.3.1 i retningslinjer for laster og dimensjonering [2]. Som 
+minimumsverdier for aktuelle lastfaktorer γf gjelder verdiene i tabell 2.1: 
+For tappe- og flomorganer og tilsvarende konstruksjoner som i hovedsak manøvreres med 
+strømmende vann skal det for permanente laster fra vanntrykk benyttes en lastfaktor i 
+bruddgrensetilstand γf = 1,4.  
+For tappe- og flomorganer i konsekvensklasse 3 og høyere skal det i tillegg gjøres 
+utmattingsanalyser.   
+ 
+ 
+ 
+ 
+12 
+ 
+Tabell 2.1 Lastfaktorer 
+Lasttype: 
+Brudd- 
+grense- 
+tilstand 
+Ulykkes- 
+grense- 
+tilstand 
+Utmattings- 
+grense- 
+tilstand 
+Bruks- 
+grense- 
+tilstand 
+Permanente laster fra statisk vanntrykk:         γf = 1,2 γf = 1,0 
+γf = 1,0 
+γf = 1,0 
+Andre permanente laster:                        
+γf = 1,2 γf = 1,0 
+γf = 1,0 
+γf = 1,0 
+Jordtrykk, avhengig av beregningsgrunnlag:  γf = 1,0 γf = 1,0 
+γf = 1,0 
+γf = 1,0 
+Lastdifferanser og variable laster:                   γf = 1,2 γf = 1,0 
+γf = 1,0 
+γf = 1,0 
+ 
+Dimensjonerende last ved kombinasjon av laster, er produktet av ugunstigste 
+karakteristiske last og aktuell lastfaktor. 
+Ved dimensjonering med faste sikkerhetsfaktorer, designfaktorer eller leverandørregler 
+settes vanligvis lastfaktoren γf = 1,0. 
+ 
+3 Materialer 
+3.1 Generelt 
+Belastede deler skal utføres av materialer med spesifikasjoner og tilhørende 
+dokumentasjon som i nødvendig grad sikrer delenes pålitelighet. Ved materialvalg tas det 
+hensyn til last, spenningsnivå, laveste funksjonstemperatur og bruddkonsekvens. 
+Materialer dokumenteres etter prinsippene i NS-EN 10204 [3] på følgende måte:  
+I ”type-2.1”: Verksattest; - produsenten gir erklæring om samsvar med bestillingen 
+I ”type-2.2”: Prøvingsrapport; - som ”type-2.1” + prøveresultater fra ikke spesifikk 
+kontroll 
+I ”type-3.1”: Kontrollsertifikat; - som ”type-2.1” + prøveresultater fra spesifikk 
+kontroll. Produsentens kontrollavdeling skal være organisatorisk uavhengig av 
+produksjonsavdelingen. 
+I “type 3.2”: Kontrollsertifikat; - som “type 3.1”, men kontrollen skal helt eller 
+delvis utføres av kjøpers representant eller en offentlig institusjon. 
+Kravet til dokumentasjon avhenger av hovedkomponentenes påkjenning og 
+bruddkonsekvensklasse og gjelder for alle vesentlige deler. 
+ 
+ 
+13 
+3.2 Stål 
+Aktuelle standarder for valsede stålmaterialer som benyttes ved vanlig 
+verkstedsproduksjon er: 
+I NS-EN 10025-1: Generelle tekniske leveringsbetingelser  
+I NS-EN 10025-2: Varmvalsede produkter av ulegert konstruksjonsstål   
+I NS-EN 10025-3: Varmvalsede produkter av sveisbare, finkornbehandlete 
+konstruksjonsstål  
+I NS-EN 10028: 
+Flate produkter av stål for trykkpåkjent utstyr. For store rør 
+benyttes ofte NS-EN 10028-3 i stedet for NS-EN 10025-3   
+For sveiste konstruksjoner i bruddkonsekvensklasse 3 og høyere, eller ved store 
+materialtykkelser eller lave temperaturer benyttes det vanligvis finkornstål. 
+Vanlig stålmaterialer med flytegrense over 460 MPa skal ikke benyttes for sveist 
+konstruksjon uten at det på forhånd er foretatt en vurdering av forhold knyttet til 
+produksjon, montasje og kontroll, samt pålitelighet i driftsfase. 
+For seriefremstilte produkter som eksempelvis verksproduserte rør foreligger det 
+tilpassede standarder som inkluderer både material- og produktspesifikasjoner.  
+Støpestål i henhold til NS-EN 1503 [4] benyttes for ventiler, i henhold til NS-EN 1563 
+[5] for vanlige formål og i henhold til SN-EN 10203 [6] for trykkpåkjent utstyr.  
+Skrueforbindelser med betydning for en konstruksjons pålitelighet skal ikke gis høyere 
+fasthetsklasse enn 8.8 uten at det dokumenteres at verken spenningskorrosjon eller 
+hydrogensprøhet vil kunne gi forhøyet bruddrisiko. Skruene skal være varmforsinkede, 
+eventuelt rustfrie av kvalitet A2-70 eller syrefaste av kvalitet A4-80. 
+3.3 Støpejern 
+For duktile støpejernsrør benyttes NS-EN 545 [7] som beskriver krav og prøvemetoder 
+for rør med hensyn til materiale med mekaniske egenskaper, men også dimensjoner og 
+toleranser, standard overflatebehandling, beregningsregler mm.   
+For andre konstruksjoner i duktilt støpejern, blant annet ventiler i midlere dimensjon og 
+trykk, benyttes NS-EN 1563 [5].  
+Grått støpejern benyttes bare for små ventiler og andre lite påkjente produkter. Der grått 
+støpejern kommer til anvendelse, skal krav i henhold til NS-EN 1561 [8] tilfredsstilles.   
+3.4 Aluminium 
+I vannkraftsammenheng benyttes aluminium hovedsakelig som 4-kantrør eller andre 
+profiler til nåle- og bjelkestengsler, og vanlig materialkvalitet er EN-AW-6082, (AlSi1 
+MgMn) eller EN-AW - 6060 tilstand T6 (AL-MgSi).  
+ 
+ 
+14 
+3.5 Glassfiberarmert umettet polyester (GRP-rør) 
+For GRP-rør og tilhørende rørdeler henvises det til NS-EN 1796 [9], alternativt NS-EN 
+14364 [10], og tilhørende standarder som beskriver krav og prøvemetoder med hensyn til 
+materiale, dimensjoner og toleranser og mekaniske egenskaper.   
+3.6 Polyetylen (PE-rør) 
+For PE-rør henvises det til NS-EN 12201 [11] og tilhørende standarder som beskriver 
+krav og prøvemetoder med hensyn til materiale, dimensjoner og toleranser og mekaniske 
+egenskaper  
+3.7 Trematerialer 
+Styrkeklasser for trematerialer fremgår av NS-EN 338 [12]. For kvalitetssorterte gran og 
+furumaterialer benyttes ofte fasthetsklasse C18, for øvrig benyttes C14. Virke for 
+konstruksjoner i klimaklasse 3 med lastvarighetsklasse P eller A i henhold til NS 3470 
+[13] skal være impregnert. 
+For spesielle formål, eksempelvis tetningsstokker for gamle luker etc. kan det benyttes 
+både eik, malmfuru eller andre tilsvarende bestandige trematerialer.  
+3.8 Betongmaterialer 
+Generelt med hensyn til betong som materiale vises det til NS-EN 206-1 [14]. Med 
+hensyn til betongrør vises det generelt til NS-EN 639 [15] og spesielt til NS-EN 641 [16] 
+for slakkarmerte rør og NS-EN 642 [17] for forspente rør. 
+3.9 Bruksområde for stenge-/tappeorganer 
+Tabell 3.1 under angir vanlige bruksområder for ulike materialer avhengig av 
+konsekvensklasse og karakteristisk trykk (h) for luker eller relativ belastning (p • D) for 
+ventiler, der p er karakteristisk trykk (MPa) og D er nominell rørdiameter (m). Dersom 
+materialet benyttes utover materialtabellens begrensninger, skal det minst dokumenteres i 
+henhold til NS-EN 10204 – ”type 3.1”:  
+Tabell 3.1 Bruksområde for stenge-/tappeorganer 
+ 
+Klasse 1 
+Klasse 2 
+Klasse 3 og 4 
+Lavlegert og rustfritt stål: Ubegrenset 
+Ubegrenset 
+Ubegrenset 
+Duktilt støpejern (ventil): p • D ≤  2,5  * p • D ≤  2,0 
+p • D ≤  1,5  
+Aluminium og betong: 
+h ≤  20 m 
+h ≤  20 m 
+ikke anvendt 
+Gummi: 
+h ≤  4 m 
+h ≤  3 m 
+ikke anvendt 
+Tre og andre materialer: 
+h ≤  6 m 
+ikke anvendt ikke anvendt 
+* For ventiler med PN ≤ 10 (trykk-klasse, bar) og DN ≤  250 (nominell diameter, mm) kan grått støpejern 
+benyttes. 
+ 
+ 
+15 
+ 
+Materialer med betydning for stenge-/tappeorganets funksjon og pålitelighet skal 
+dokumenteres som angitt nedenfor: 
+I For ventiler med PN ≤ 10 og DN ≤ 250 dokumenteres i henhold til NS-EN 10204 
+- ”type 2.1”. 
+I Stenge-/tappeorganer i konsekvensklasse 1 og 2 skal minst dokumenteres i 
+henhold til NS-EN 10204 - ”type 2.2” eller tilsvarende. 
+I Stenge-/tappeorganer i konsekvensklasse 3 skal minst dokumenteres i henhold til 
+NS-EN 10204 - ”type 3.1” eller tilsvarende. 
+Ved kontroll i henhold til NS-EN 10204-”type 3.1”, skal den fagansvarlige godkjenne 
+kontrollopplegget. 
+3.10 
+Bruksområde for rør 
+Tabell 3.2 under angir vanlige bruksområder for standardiserte, serieproduserte rør, 
+avhengig av konsekvensklasse, relativ belastning og installasjonsform. Relativ belastning 
+er produktet (p • D) der p er karakteristisk trykk (MPa) og D er nominell rørdiameter (m). 
+Dersom materialet benyttes utover materialtabellens begrensninger, skal rør klassifisert i 
+konsekvensklasse 1 og 2 dokumenteres i henhold til NS-EN 10204 – ”type 3.1”, og rør i 
+konsekvensklasse 3 og høyere i henhold til NS-EN 10204 – ”type 3.2”.  
+Tabell 3.2 Bruksområde for rør 
+Frittliggende rør 
+Klasse 1 
+Klasse 2 
+Klasse 3 og 4 
+Stålrør: 
+p • D ≤  3,5 
+p • D ≤  2,5 
+p • D ≤  2,0 
+GRP-rør: 
+p • D ≤  2,0 
+p • D ≤  1,6 
+ikke anvendt 
+PE-rør  
+p • D ≤  0,6 
+ikke anvendt ikke anvendt 
+Duktile støpejernsrør: p • D ≤  2,0 
+p • D ≤  1,6 
+ikke anvendt 
+Trerør: 
+p ≤  0,4 MPa ikke anvendt ikke anvendt 
+Forspente betongrør: 
+ikke anvendt ikke anvendt ikke anvendt 
+ 
+ 
+ 
+ 
+Nedgravde rør 
+Klasse 1 
+Klasse 2 
+Klasse 3 og 4 
+Stålrør: 
+p • D ≤  3,5 
+p • D ≤  2,5 
+p • D ≤  2,0 
+GRP-rør: 
+p • D ≤  2,5 
+p • D ≤  2,0 
+p • D ≤  1,6 
+PE-rør: 
+p • D ≤  1,2 
+p • D ≤  1,0 
+ikke anvendt 
+Duktile støpejernsrør: p • D ≤  3,5 
+p • D ≤  2,5 
+p • D ≤  2,0 
+Trerør: 
+ikke anvendt ikke anvendt ikke anvendt 
+Forspente betongrør: 
+p • D ≤  2,0 
+p • D ≤  1,6 
+ikke anvendt 
+ 
+ 
+16 
+ 
+Rør lagt i tunnel betraktes som nedgravde rør. 
+Materialer med betydning for rørets funksjon og pålitelighet skal dokumenteres slik:   
+I Rør uavhengig av materialtype, skal minst dokumenteres i henhold til NS-EN 
+10204 – “type 2.2” eller tilsvarende, bortsett fra forspente betongrør som 
+dokumenteres i henhold til NS-EN 10204-”type 3.1”. Det skal minst tas ett 
+prøvesett fra hver produksjonsserie/ dimensjon/trykk-klasse. 
+I Rør i bruddkonsekvensklasse 3 og høyere skal minst dokumenteres i henhold til 
+NS-EN 10204 – “type 3.1” eller tilsvarende. 
+Vedlegg G.5 angir hvilke krav til dokumentasjon som i hvert enkelt tilfelle blir aktuelt 
+avhengig av materialvalg. 
+Ved kontroll i henhold til NS-EN 10204 - “type 3.1” og NS-EN 10204 - “type 3.2” skal 
+den fagansvarlige godkjenne kontrollopplegget. 
+4 Dimensjonering 
+4.1 Generelt 
+Dimensjonering av stenge-, tappeorganer og rør i stål, tre, aluminium og betong gjøres 
+vanligvis ved kontroll i brudd-, ulykkes-, bruks- og utmattingstilstand.  
+Dimensjonering av rør, rørdeler og ventiler i duktilt støpejern og plast (GRP, PE) gjøres 
+vanligvis ved kontroll i bruddgrensetilstand ved bruk av sikkerhetsfaktor som inkluderer 
+både lastfaktor og materialfaktor. Dimensjonering med fast sikkerhetsfaktor skal ikke 
+resultere i mindre solid konstruksjon enn ved bruk av metoden med lastfaktor og 
+materialfaktor.  
+Anvendt beregningsmodell skal for aktuell konstruksjon og opptredende last angi 
+materialspenninger og/eller deformasjoner slik at dette på en god måte dokumenterer 
+konstruksjonens funksjonsevne og pålitelighet. Valgt beregningsmodell skal baseres på 
+anerkjente beregningsstandarder, pålitelige teoretiske utredninger og/eller vel 
+dokumenterte empiriske data. 
+Ved flerakset spenningstilstand, skal det for materialer med tilnærmet like mekaniske 
+egenskaper i ulike retninger fastlegges jevnføringspenning i henhold til von Mieses 
+formel. 
+Begrenses dimensjonerende levetid av spesielle materialtekniske prosesser eller utmatting 
+hvor dette ikke lar seg påvirke ved vedlikeholdstiltak, skal aktuell levetid kvantifiseres. 
+Ved kontroll av eldre konstruksjoner vises det til Vedlegg H. 
+ 
+ 
+17 
+4.2 Dimensjonering av stålkonstruksjoner inkl. 
+stålrør 
+Dimensjonering kan skje med dimensjonerende laster i henhold til kapittel 2. Ut over 
+dette vises det til NS 3472 [18] og NS-EN 13445 [19].  
+Ved dimensjonering av ny stålkonstruksjon skal nominell godstykkelse fratrekkes 1 mm 
+på hver korrosjonsutsatt flate som nærmere beskrevet i Vedlegg B3. I forbindelse med 
+standardiserte stålprofiler kan det benyttes 10 % reduksjon av tverrsnittsdataene.  
+Materialets karakteristiske fasthetsverdi kan være flytegrense, men begrenset til 80 % av 
+materialets garanterte bruddgrense. Dimensjonerende materialfasthet er karakteristisk 
+fasthetsverdi dividert med materialfaktor. 
+Materialfaktorene i tabellen blir minimumsverdier så fremt ikke annet angis:  
+Tabell 4.1 Materialfaktorer 
+Sikkerhetsreserve: 
+Brudd- 
+grense- 
+tilstand 
+Ulykkes- 
+grense- 
+tilstand 
+Utmattings 
+grense- 
+tilstand 
+Bruks- 
+grense- 
+tilstand 
+Konstruksjon med plastisitetsreserve:  γm = 1,25 γm = 1,10 γm = 1,00 
+γm = 1,00 
+Konstruksjon uten plastisitetsreserve:  γm = 1,60 γm = 1,30 γm = 1,00 
+γm = 1,00 
+ 
+En konstruksjon har plastisitetsreserve hvis den er utført av duktile materialer med minst 
+15 % bruddforlengelse og tilfredsstillende bruddmekaniske egenskaper ved aktuell 
+brukstemperatur.  
+En konstruksjon kan også ha plastisitetsreserve ved at flyting i ett ledd medfører endret 
+lastbilde slik at andre deler av konstruksjonen overtar lasten. 
+En konstruksjon er uten plastisitetsreserve hvis materialet ikke oppviser noen klar 
+flytegrense eller hvis konstruksjonen bryter sammen når flytegrense eller knekkgrense 
+overskrides. Dette kan inntreffe ved velting, elastisk knekking eller i tilfeller med ikke 
+tilfredsstillende bruddmekaniske egenskaper. Ved teoretiske beregningsmodeller for 
+knekking som ikke tar hensyn til produksjonsunøyaktigheter etc., settes γm > 1,6 i 
+bruddgrensetilstanden. 
+For konstruksjoner med plastisitetsreserve kan det for små områder med primær 
+membran- eller bøyespenning, benyttes γm = 1,10 i bruddgrensetilstand og γm = 1,0 i 
+ulykkes-grensetilstand. Det forutsettes at områdenes utstrekning i hovedspenningsretning 
+ikke overstiger 
+t
+r ⋅
+ eller maksimalt 5 ⋅ t, hvor r er krumningsradius for sylinder eller 
+kuleskall og t er materialtykkelse. Jevnføringsspenning utenfor nevnte område skal 
+samtidig ikke overskride en dimensjonerende spenning fastlagt med γm = 1,25 i 
+bruddgrensetilstand og γm = 1,10 i ulykkesgrensetilstand.  
+For rørkoblinger etc. der deformasjon kan gi bruddlignende tilstand, vises det til siste 
+avsnitt i kapittel 6.2. 
+ 
+ 
+18 
+For konstruksjoner med plastisitetsreserve kan det for en lokal spenningsspiss som 
+skyldes diskontinuitet, kjerv, etc., aksepteres γm ≤ 1,0 i bruddgrensetilstand så fremt det 
+ikke er fare for utmatting. Tillatt verdi for det enkelte tilfelle avhenger av 
+beregningsmetodens usikkerhet, materialets bruddmekaniske egenskaper, kontrollnivå, 
+etc. 
+For konstruksjoner i støpestål forutsettes det at materialfaktoren økes med minimum 25 
+% i forhold til tilsvarende valsede materialer. 
+4.3 Dimensjonering av aluminiumskonstruksjoner 
+Dimensjonering kan skje med dimensjonerende laster i henhold til kapittel 2. Ut over 
+dette vises det til NS 3471 [20].  
+Materialets karakteristiske fasthetsverdi for korttidslast kan være garantert flytegrense, 
+men begrenset til 80 % av materialets garanterte bruddgrense. For 
+aluminiumskonstruksjoner som skal dimensjoneres for langtidslast, settes karakteristisk 
+fasthetsverdi lik 80 % av korttidslastens karakteristiske fasthetsverdi.  
+Dimensjonerende materialfasthet er karakteristisk fasthetsverdi dividert med 
+materialfaktor i henhold til tabell 4.1 i kapittel 4.2. 
+4.4 Dimensjonering av duktile støpejernsrør 
+Dimensjonering skjer med karakteristisk last og tillatt kapasitet ved kontinuerlig 
+belastning (PFA) som angitt i NS-EN 545 [7].  
+Ved kontroll av ringspenning med karakteristisk innvendig trykk (statisk trykk + 
+dynamisk trykk), skal ringspenningen ikke overstige 140 MPa. Ved fleraksial spenning 
+skal jevnføringsspenningen, fastlagt i henhold til von Mieses formel, ikke oversige 150 
+MPa. Ved fastleggelse av materialspenning benyttes minstetykkelsen på røret som er 
+nominell tykkelse fratrukket toleranseavviket, jf. NS-EN 545 [7] Annex A. 
+For mer beskrivelse om kontroll og dokumentasjon av duktile rør vises det til Vedlegg 
+G.5.2. 
+4.5 Dimensjonering av GRP- rør 
+GRP-rør dimensjoneres med karakteristisk last som angitt i kapittel 2.  
+Frittliggende og nedgravde GRP-rør skal for alle konsekvensklasser oppfylle krav i 
+henhold til NS-EN 1796 [9] eller tilsvarende standard (NS-EN 14364), men skal ha en 
+sikkerhetsfaktor (FSmin) på 1,8 etter 50 år ved en kontinuerlig belastning lik karakteristisk 
+trykk. Rørene skal ha en korttids ringstivhet (SN) på minimum 5000 N/m2. 
+For nedgravde rør i konsekvensklasse 1 kan det, ut fra gitte forutsetninger, tillates en 
+sikkerhetsfaktor (FSmin) på 1,6, jf. pkt. 6.2 Dimensjonering av rør 
+For mer beskrivelse om kontroll og dokumentasjon av GRP-rør vises det til Vedlegg G. 
+5.3. 
+ 
+ 
+19 
+4.6 Dimensjonering av PE-rør 
+PE-rør dimensjoneres med karakteristisk last som angitt i kapittel 2.  
+Rørene skal for alle konsekvensklasser oppfylle krav i henhold til NS-EN 12201 [11] 
+m/nasjonalt tillegg eller tilsvarende standard, men med sikkerhetsfaktor på 1,9 (også 
+betegnet c = designfaktor).  
+PE-rør skal ha en minimum korttids ringstivhet, Scalc, på 5000 N/m2. 
+For nedgravde rør i konsekvensklasse 1 kan det, ut fra gitte forutsetninger, tillates en 
+sikkerhetsfaktor på 1,6, jf. kapittel 6.2 Dimensjonering av rør. 
+For mer beskrivelse om kontroll og dokumentasjon av PE-rør vises det til Vedlegg G.5.4. 
+4.7 Dimensjonering av trekonstruksjoner 
+Dimensjonering skjer med dimensjonerende last i henhold kapittel 2 og til NS 3470 med 
+klimaklasse 3 og lastfordelingsfaktor kls = 1,0. I tillegg vises det til Vassdragstilsynets 
+regler for kontinuerlig bygde trerør av 1942 [21]. 
+4.8 Dimensjonering av armert gummiduk 
+Armert gummiduk benyttes i gummiluker og i manøvreringsputer. Dimensjonering skjer 
+med karakteristisk last og bruddssikkerhet 2,0 etter 40 års levetid, alternativt 
+bruddsikkerhet på 8,0 for ny duk med karakteristisk last som korttidslast.  
+For luftfylt gummiluke er maksimal tillatt overtopping 20 % av lukehøyden når luken står 
+i øverste stilling.  
+5 Spesielle bestemmelser for 
+stenge-/tappeorgan 
+5.1 Utforming 
+Stenge-og tappeorganer utformes med tanke på tilsyns- og vedlikeholdsvennlighet og slik 
+at eventuelle skadekonsekvenser minimaliseres og funksjonalitet opprettholdes. Spesielt 
+vurderes fare for fastfrysing og fare for blokkering med is/drivgods.   
+Utformingen av stenge- og tappeorganer skal eliminere skadelig vibrasjon, kavitasjon og 
+erosjon. Behov for lufttilførsel nedstrøms tappeorgan må alltid vurderes.   
+Gummiluker skal være utstyrt med et automatisk nødåpnesystem for å hindre 
+overbelastning. Ved kontrollert tapping av vann over gummiluke tillates det verken v-
+formet innknekking av duk eller at det oppstår vibrasjoner i duken. 
+5.2 Dimensjonering 
+Stenge- og tappeorganer skal generelt dimensjoneres for laster i henhold til kapittel 2.  
+ 
+ 
+20 
+For konstruksjoner innstøpt i betong kan det ved forenklet beregning forutsettes: 
+I Dimensjonerende skjærspenning mellom blåserenset stål og betong: 0,5 MPa 
+I Dimensjonerende flatetrykk mellom stål og betong: 15,0 MPa 
+Neglisjeres skjevbelastning på grunn av lukedeformasjon og andre skjevheter mellom 
+luke og føring, kan flatetrykk som angitt nedenfor anvendes, når flater skal beveges og 
+belastes i forhold til hverandre. Ved høyere påkjenning må skjevbelastning vurderes.  
+I Dimensjonerende trykk for plan bronselist mot glatt rustfri stålflate: 14,0 MPa 
+I Dimensjonerende trykk for plan polyamidlist mot glatt rustfri stålflate: 10,0 MPa 
+Sylindriske rullelukehjul som får mindre enn 100 000 omdreininger med belastning i 
+løpet av levetiden, skal ikke ha Hertz-trykk i kontaktflate mellom skinne og hjul som 
+overskrider 2,3 · Re. Her er Re det svakeste materialets flytegrense. Hertz-trykket skal 
+heller ikke overskrider 5,4 · HB (MPa) med HB lik det svakeste materialets Brinell-
+hardhet. For hjul som får mer enn 100 000 omdreininger med belastning skal Hertz-
+trykket ikke overstige 3,0 · HB (MPa) når dette fastlegges som om banen er sylindrisk. Er 
+hjul eller rullebaner utført av polymer, benyttes materialenes langtidsverdier.  
+I forbindelse med fastleggelse av karakteristiske manøvreringskrefter regnes: 
+I Egenvekt av luke og opptrekk. For luke med ikke lukkede hulrom og ribber, steg 
+etc., tas det hensyn til mulighet for manglende drenering grunnet tette 
+dreneringshull, oppfylling av sand, grus, snø og is. 
+I All relevant hydrostatisk og hydrodynamisk last. 
+I All friksjonslast inkludert tetningsfriksjon, friksjon i lagringer og friksjon i 
+eventuell hydraulisk sylinder. For pakninger regnes tetningsfriksjonen ut fra en 
+kombinasjon av pakningens forspenningskraft i tørr tilstand tillagt en tilleggskraft 
+pga vanntrykkets deformasjon av pakningen. 
+I Massekrefter neglisjeres dersom tyngdepunktets akselrasjon eller retardasjon er 
+mindre enn 0,5 m/s2. 
+Minimumsverdier for friksjonsfaktorer er: 
+I Gummi Shore A 85° mot rustfritt stål: 
+ 
+ 
+0,7 
+I Gummi Shore A 55° mot rustfritt stål: 
+ 
+ 
+0,9 
+I Glidelister av bronse uten smøring mot rustfritt stål: 
+0,6 
+I Glidelister av polymer uten smøring mot rustfritt stål: 
+0,4 
+I Tapplager generelt, bronse mot rustfritt stål:  
+ 
+0,25 
+I Rullelukehjul, smurt, godt beskyttet bronselager:  
+0,2 
+I Minimumsverdi for spesialglidelager, godt beskyttet:  
+0,15 
+ 
+Rullemotstandsarm for hjul mot skinne settes til 0,5 mm. 
+Er det lagringer med hardkrombelagt karbonstål i glideflate vurderes konsekvens ved 
+forhøyet lagerfriksjon. 
+Resulterende lukkekraft for luker som skal lukke eller holdes lukket ved egen tyngde 
+og/eller statisk vanntrykkresultant, skal ha en kontinuerlig nedoverrettet last som 
+ 
+ 
+21 
+overstiger motvirkende krefter med minst 25 %. Er bunntetning av flatgummitype skal 
+lukketrykket være minst 5 kN/m tettelengde. 
+Ved fastleggelse av nødvendig spillkapasitet, skal det ut fra foreliggende usikkerhet 
+regnes påslag til karakteristisk manøvreringskraft. Påslagsfaktorer angis nedenfor: 
+I Glideluker manøvrert mot fullt vanntrykk og glidelistfriksjon 0,6: 
+ 
+1,0 
+I Glideluker manøvrert trykkavlastet:  
+ 
+ 
+ 
+ 
+ 
+1,2 
+I Rulleluker og segmentluker:  
+ 
+ 
+ 
+ 
+ 
+ 
+1,2 
+I Sektorluker, klappeluker, valse- og segmentluker benyttet som flomluke: 
+1,3 
+Retningslinjens krav knyttet til last- og materialfaktorer omfatter også 
+manøvreringsutstyret.  
+Virvelavløsningsfrekvenser skal ikke overskride 60 % av 1. ordens egensvingefrekvens 
+for den konstruksjonsdel som virvelavløsningen påvirker.  
+Ved fastleggelse av stengende moment på ventiler eller luker som skal fungere som 
+nødstengeorgan, skal det i bruddgrensetilstand regnes med maksimal stasjonær 
+bruddvannføring.  
+For ventiler eller luker som skal kunne stenge ved maksimal bruddvannføring uten at 
+disse har primær nødstengefunksjon, eksempelvis hvor vannvei er i konsekvensklasse 1, 
+kan nødstengingen regnes i ulykkesgrensetilstand.  
+5.3 Manøvreringsutstyr og manøvrering 
+Alt utstyr for manøvrering av stenge- og tappeorganer skal så langt som mulig 
+tilfredsstille Arbeidstilsynets ”Forskrift om maskiner” [22] og tilsvarende forskrifter, 
+eksempelvis ”Forskrift om tekniske innretninger” [23].  
+Åpne-/lukketider for flomavledningsorganer og lukketid for nødstengeorganer skal være 
+korte, forholdene i vassdraget tatt i betraktning. Der kort manøvreringstid vanskelig lar 
+seg realisere, eksempelvis ved gummiluker, skal manøvreringstiden ikke overskride 1 
+time.  
+Lukketiden for nødstengeorganer skal være så kort som forsvarlig.  
+Uavhengig av om manøvrering av stenge- og tappeorganer skjer lokalt eller ved 
+fjernkontroll, skal det være indikering på helt lukket og vanligvis på helt åpen stilling. 
+Åpningen skal kunne kontrolleres lokalt enten som mekanisk eller digital 
+posisjonsvisning. Fjernstyrte tappeorgan skal ha fjernvisning av posisjon.  
+Ved stenge- og tappeorganer som helt eller delvis kan fjernstyres, skal vender for 
+henholdsvis lokalstyring og fjernstyring plasseres lokalt og bare kunne betjenes herfra. 
+Lokal manøvrering av slike systemer skal skje ved bruk av relelogikk i kontaktorskap. 
+Styresystemet for manøvrering av stenge- og tappeorganer skal sikres mot 
+feilmanøvrering og mot utilsiktet manøvrering som følge av ytre påvirkning. 
+Mikroprosessorstyrte anlegg for fjernstyring av stenge- og tappeorganer, skal tåle 
+overspenninger og mekaniske feil uten at utilsiktet manøvrering finner sted.  
+ 
+ 
+22 
+Fjernstyrte tappe- og flomluker skal ha signal til driftssentral/personell for varsling av 
+forhold med sikkerhetsmessig betydning. I tillegg skal det vurderes om 
+fjernsynsovervåking av lukene til driftsentral er nødvendig, jf. damsikkerhetsforskriften § 
+7-1. 
+Stenge- og tappeorganer som benyttes til nødstenging, flomavledning eller 
+beredskapstapping skal ha et manøvreringssystem med høy pålitelighet. I tillegg til 
+manuell manøvrering (håndpumpe, sveiv), skal det for stenge- og tappeorganer i 
+konsekvensklasse 2 og høyere etter en risikovurdering være tilrettelagt for bruk av 
+reserveutstyr. Med dette menes fastmontert eller mobilt strømaggregat, mobilt 
+oljehydraulikkaggregat eller tilkoblingsmulighet for reserve løfte- eller senkeinnretning.  
+Tilhørende elektrisk styring skal også ha høy pålitelighet. Etter en risikovurdering skal 
+dublering av komponenter, reservedelshold samt mulighet for provisoriske styresystemer 
+vurderes.  
+Etter fastlagte tilsynsrutiner skal stenge- og tappeorganer gjennomgå en kvalitetskontroll 
+for å verifisere anleggets tilstand. Kontrollen skal omfatte alle sikkerhetsaspekter knyttet 
+til mulig feilmanøvrering som følge av feilkoblinger, feil som utløses av atmosfæriske 
+forstyrrelser etc. Kontroll av nødstengeorganers funksjonalitet, inkludert prøving av 
+utløser, skal inngå. Kontrollen skal dokumenteres og fremvises NVE på forespørsel.  
+5.4 Tekniske planer, idriftsettelse og sluttrapport 
+Ved bygging og fornyelse skal tekniske planer for stenge- og tappeorganer utarbeides i 
+henhold til damsikkerhetsforskriften § 5-2 og § 5-14, og sendes NVE til godkjenning.  
+Ved idriftsettelse skal det foreligge en plan for første gangs prøving av stenge- og 
+tappeorganer, jf. damsikkerhetsforskriften § 6-2. Tetthet og manøvrerbarhet skal 
+verifiseres og dokumenteres i forbindelse med idriftsettelsen.  
+Nødstengefunksjon skal testes. Testen utføres normalt med maksimal driftsvannføring.    
+Protokoll fra idriftsettelsen skal inngå i en sluttrapport som sendes NVE, jf. 
+damsikkerhetsforskriften § 6-1.  
+6 Spesielle bestemmelser for rør 
+og fundamenter 
+6.1 Utforming 
+Frittliggende og nedgravde rør med skjøter/koblinger og fundamenter, skal representere et 
+entydig statisk system der det er definert hvor røret fastholdes og hvor det kan forskyve 
+seg på grunn av trykk og temperaturendringer. 
+Alle rør skal ha mulighet for innvendig inspeksjon for tilsyn og vedlikehold, enten 
+manuelt eller med fjernstyrt kamera. Frittliggende og nedgravde rør med nominell 
+diameter større enn 600 mm utstyres med mannlokk eller demonterbare mellomstykker.  
+Avstanden mellom adkomstene skal ikke overskride 500 m.  
+ 
+ 
+23 
+Rør og vannvei skal ha anordninger som muliggjør sikker fylling og tømming, samt 
+utstyr/anordninger for inn- og utslipping av luft, jf. damsikkerhetsforskriften § 5-15. 
+Lufterør sikres mot ising og utilsiktet tilstopping.  
+Rør i konsekvensklasse 1 skal i oppstrøms ende ha et arrangement som muliggjør manuell 
+avstenging ved rørbruddsvannføring. Rør i konsekvensklasse 2 og høyere skal i rørets 
+oppstrøms ende ha installert et stengeorgan med automatisk og fjernutløst 
+rørbruddsstengefunksjon, jf. Vedlegg E.3. Etter utløst stenging skal kun lokal åpning 
+være mulig. 
+Ved rør i konsekvensklasse 3 og høyere skal overvåking av inngående vannmengde 
+sammenholdt med turbinvannføring installeres dersom det er store konsekvenser ved 
+lekkasjer som er mindre enn største driftsvannføring.  
+6.2 Dimensjonering av rør 
+Alle rør skal beregningsmessig kontrolleres for karakteristisk innvendig overtrykk langs 
+hele rørtraséen. Karakteristisk overtrykk tilsvarer høyeste statiske trykk tillagt maksimal 
+svingegrense eller maksimalt dynamisk trykk (trykkstøt) beregnet for ulike snitt langs 
+røret. Tilhørende minimumstrykk skal normalt ingen steder være under atmosfæretrykket. 
+Et begrenset undertrykk kan aksepteres dersom tilfredsstillende sikkerhet kan 
+dokumenteres.  
+Som utgangspunkt for fastleggelse av dynamisk trykk langs rørtraséen kan fagansvarlig 
+bruke turbin/pumpeleverandørens garanterte data for maksimal trykkstigning/synking ved 
+avslag på fullast med vannstand på HRV ved innløpet til turbin eller pumpe.  
+Delastavslag eller avslag på LRV vurderes dersom dette kan gi ugunstigere trykk langs 
+rørtraséen. 
+Dersom garantiverdien fra leverandør ikke foreligger, skal fagansvarlig fastsette en 
+velbegrunnet verdi på trykkstøtet. Uten grundig dokumenterte beregninger skal ikke 
+dynamisk trykk ved kraft- eller pumpestasjon settes lavere enn 30 % av statisk vanntrykk. 
+Dette gjelder for rør i alle konsekvensklasser. 
+I vannveisystemet med mer enn ett inntak fastlegges dynamisk trykk ut i fra ugunstigste 
+vannveiskonfigurasjon. Ved anlegg med frekvensregulator skal forholdene med 
+kombinerte lasttilfeller som avslag – påslag eller påslag – avslag i ugunstigste tidspunkt 
+vurderes. For anlegg med flere aggregater skal det på samme måte vurderes ulike 
+driftskonstellasjoner.  
+Trykkforplantning langs rørtrasé ved turbin-/ventilavslag varierer og er avhengig av 
+traséens geometri, rørmateriale og rørdimensjon, samt innvirkning av eventuell oppstrøms 
+tunnel, svingesjakt etc. 
+Ved dimensjonering av rør i konsekvensklasse 2 eller høyere skal det framlegges 
+dynamiske beregninger av trykkstøtet langs rørtraséen. Beregningene skal ta hensyn til 
+turbinens eller pumpens karakteristikk med hensyn til trykk og vannføring som funksjon 
+av tid.  
+For rør i konsekvensklasse 1 kan det forenklet antas lineært avtagende trykkstigning fra 
+kraftstasjon til nærmeste frie vannspeil eller til vesentlig økt strømningstverrsnitt. Men 
+ 
+ 
+24 
+gjøres en slik forenkling skal rørene dimensjoneres med en sikkerhetsfaktor tilsvarende 
+for samme rørtype i konsekvensklasse 2. 
+For nedgravde GRP-rør og PE-rør i konsekvensklasse 1, hvor det utføres dynamiske 
+beregninger av trykkstøtet langs rørtraséen, kan det tillates en lavere sikkerhetsfaktor på 
+rørene, jf. kap. 4.5 og 4.6. 
+Rør kontrolleres i bruddgrensetilstanden mot innknekking for et karakteristisk undertrykk 
+som spesifisert i kapittel 2.3. Rør plassert i konsekvensklasse 2 og høyere skal tåle fullt 
+innvendig vakuum i ulykkesgrensetilstand. 
+Ved normtrykkdimensjonering der koblinger, ekspansjoner, etc., dimensjoneres med 
+innvendig karakteristisk vanntrykk som eneste last og der deformasjon kan gi 
+bruddliknende tilstand, legges sikkerhetsfaktor 2,4 til grunn. Sikkerhetsfaktoren refereres 
+til materialets karakteristiske fasthetsverdi som angitt i kapittel 4.2 (flytegrense), jf. 
+Vedlegg G.1.4.   
+6.3 Dimensjonering av betongfundament  
+Formålet med betongfundamenter, som forankringsfundament eller som 
+mellomfundament, er å holde røret på plass og hindre forskyvninger og setninger. Gjelder 
+både for frittliggende- og nedgravde rør.  
+Aktuelle laster på fundamenter er nærmere beskrevet i Vedlegg G. Det vises også til 
+”Rørledninger for vannkraftanlegg. Prosjektering, drift og vedlikehold” fra 
+Vassdragsregulantenes forening, 1993 [24].   
+Damsikkerhetsforskriften [1] samt NVEs retningslinjer for betongdammer [25] 
+komplettert med NS 3473 [26] legges til grunn ved dimensjonering av 
+forankringsfundamenter.  
+Sikkerheten mot velting og glidning dimensjoneres/kontrolleres for karakteristiske laster. 
+For velting gjelder: 
+I bruddgrensetilstand skal forholdet mellom stabiliserende og veltende moment minst 
+være 1,4. I stabiliserende moment kan det regnes med virkning fra fjellbolter eller 
+spennstag, og for spennstag gjelder at kontroll og etterspenning av spennlast er mulig. 
+I ulykkesgrensetilstand skal forholdet mellom stabiliserende og veltende moment minst 
+være 1,1. Virkning av fjellbolter og spennstag inngår.  
+For glidning gjelder: 
+I bruddgrensetilstand skal sikkerheten mot glidning minst være 1,4 og i 
+ulykkesgrensetilstand minst 1,1. I glidemotstanden kan medregnes friksjonskraften 
+mellom sideflater og omkringliggende masser, inklusiv bruk av bolter eller spennstag. 
+Ved nedgravde rør er det ikke tillatt å regne passivt jordtrykk mellom betongvegg og 
+grøftevegg. 
+Ved fundamentering på løsmasse gjennomføres en vurdering/kontroll av grunnforhold 
+med tanke på bæreevne og fare for telehiv.  
+ 
+ 
+25 
+Dersom fundamentet er utført med fundamentplate, kan massen over platen medregnes 
+som stabiliserende vekt. 
+Dimensjonering av betongfundamenter for nedgravde rør må ses i sammenheng med 
+samlet systemstabilitet for rør og fundament, jf. Vedlegg G.3.3. 
+6.4 Stabilitetskrav for nedgravde rør  
+6.4.1 Glidning 
+Sikkerhet av nedgravde rør mot glidning ivaretas av friksjonen mellom rør og 
+omfyllingsmasser. For rørtraséer brattere enn 20 ° skal det utføres beregninger som viser 
+hvordan stabiliteten av rørene blir ivaretatt. Det skal anvendes anerkjente 
+beregningsmodeller ifm. stabilitetsanalysen. Som en forenkling kan det forutsettes en 
+modell hvor rør og overliggende masse glir, og hvor glidflaten som medregnes vil være 
+langs nedre halvdel av røret, samt etter to vertikale flater i omfyllingsmassen fra rør til 
+terrengoverflaten. Sikkerheten mot glidning skal i bruddgrensetilstanden minst være 1,5, 
+forutsatt at grøftetraséen er drenert. Det skal også gjennomføres kontroll av sikkerheten 
+mot glidning ved vannfylt grøft til topp av rør i ulykkesgrensetilstanden, i fall 
+dreneringen ikke er virksom, og med sikkerhet minst lik 1,1. Modellen tar ikke hensyn til 
+lengdeendringer/bevegelser av hvert rør pga. trykk- eller temperaturvariasjoner. Ved 
+vanskelige grunnforhold, og der det ellers reises tvil om global sikkerhet er ivaretatt, skal 
+grunnforholdene vurderes av geoteknisk sakkyndig.  
+Sentrale parametre ifm. med en slik stabilitetsanalyse av nedgravde rør vil være 
+egenvekten, friksjonsvinkelen og hviletrykkskoeffisienten i omfyllingsmassene, 
+friksjonskoeffisienten mellom rør og masser samt overdekningen.  
+Dersom beregninger gir for liten friksjon mellom rør og masser kan sikkerheten økes ved 
+bruk av for eksempel betongfundamenter, jf. pkt. 6.3, eventuelt i kombinasjon med 
+strekkfaste koplinger. 
+6.4.2 Avvinkling 
+Ved horisontale og vertikale retningsendringer i rørtraséen oppstår det bendkrefter som 
+kan bli betydelige. Kravet er at rør skal ligge i ro uten deformasjoner. Uten strekkfaste 
+skjøter skal det i glidemotstanden bare regnes med stabiliserende bidrag fra 
+overdekningsmassen vertikalt over røret, og maksimalt i en lengde på 1/3 av lengden på 
+tilstøtende rør. Stabiliserende bidrag fra rør- og vannvekt gjelder også i en lengde på 1/3 
+av lengden på tilstøtende rør. Ved avvinkling tillates det ikke å regne passivt jordtrykk 
+mellom rør og grøftevegg. Ved bendkrefter større enn tillatt kan for eksempel rørene 
+stabiliseres med betongfundamenter.  
+Ved større trykk og dimensjoner på røret skal avvinklinger i rørskjøtene både vertikalt og 
+sideveis, som tillates ut fra rørleverandørens leggeanvisning, også kontrolleres. 
+Kontrollen gjennomføres ved ugunstigste kombinasjoner av vanntrykk, rørdiameter, 
+overdekning, etc. Det skal benyttes en montasjeunøyaktighet på 0,5 ° i forbindelse med 
+kontrollen, jf. Vedlegg G.3.3.  
+ 
+ 
+26 
+6.5 Transport, håndtering og lagring av rør 
+Rør skal transporteres, håndteres og lagres etter beskrivelse satt opp av fagansvarlig. 
+Beskrivelsen skal som et minimum tilfredsstille leverandørens krav.  Hvis ikke annet er 
+bestemt skal nødvendig dokumentasjon i henhold til kapittel 3.10 følges. 
+6.6 Tekniske planer og bygging  
+Ved bygging og fornyelse av rørgater skal det utarbeides tekniske planer som sendes 
+NVE til godkjenning, jf. damsikkerhetsforskriften § 5-2 og § 5-15, og retningslinjer for 
+planlegging og bygging [27].  
+Ved anlegg hvor bygging skjer over tid, og hvor det på forhånd er uklart hvordan 
+enkeltkomponenter i rørtraséen (f.eks. betongfundamenter) skal detaljprosjekteres, kan 
+NVE akseptere at planer for dette utarbeides separat etter at utgraving/preparering av 
+grøft er påbegynt. Forutsetningen er at planer for enkeltkomponentene sendes inn og blir 
+godkjent før arbeider igangsettes.  
+Tekniske planer skal minst inneholde: 
+I Kart med inntegnet rørtrasé i horisontal- og vertikalplanet 
+I Plassering av bend, spesielle rørdeler, forankringer samt overganger mellom ulike 
+rørtyper, trykklasser og rørdimensjoner  
+I Dimensjonering av rør med tilhørende konstruksjonsdeler, inkl. 
+trykkstøtsberegninger  
+I Kontroll av sikkerheten mot glidning av nedgravde rør i trasé med helning større 
+enn 20° 
+I Stabilitetsberegning av betongfundamenter eller andre typer forankringer  
+I Kontroll av skråningsstabilitet der rør legges i bratt løsmasseterreng og ellers ved 
+vanskelige grunnforhold 
+I Beskrivelse av hvordan rør skal legges relatert til stedlige forhold langs 
+rørtraséen. Dette kan være ved viktige kontrollpunkter som kryssing av veg, 
+jernbane, elv og bekkeløp, og ved retningsendringer i vertikal- eller 
+horisontalplanet  
+I Drenering og bortleding av vann fra rørgrøft 
+I Plassering og beskrivelse av stengeanordning   
+Alle rør skal ellers legges i overensstemmelse med beskrivelse utarbeidet av fagansvarlig.  
+For nedgravde rør skal blant annet preparering av grøftebunn med innbyggingstykkelse 
+og komprimering av masser i forskjellige soner rundt røret være angitt. Beskrivelsen skal 
+tilfredsstille krav gitt i Vedlegg G.3.1, for øvrig i henhold til rørleverandørens 
+spesifikasjoner. Rørene legges slik at de er tilfredsstillende sikret mot aksial forskyvning, 
+utknekking og utglidning.  
+Ved bygging og fornyelse av rør skal det foreligge en plan for gjennomføring av det 
+tekniske kontrollarbeidet i byggeperioden, jf. krav gitt i damsikkerhetsforskriften § 6-1. 
+Planen skal bl.a. inneholde kontroll av rørleveranse, rørmontasje og utførelse av 
+bygningstekniske arbeider i tilknytning til anlegget.  
+Kontrollør skal påse at beskrivelser, leggeanvisning og tegninger følges. Kontrollen kan 
+for eksempel gjennomføres ved bruk av skjemaer hvor nødvendige data og opplysninger 
+ 
+ 
+27 
+ved rørlegginga inngår. Kontrollskjemaet kan inneholde rørnummerering, helning, 
+avvinkling, omfyllingsmasser, komprimering, drenering, betongfundamenter, kryssing av 
+veg og bekkeløp, koordinatfesting, overdekning, etc.  Samlet dokumentasjonen på 
+utførelsen skal inngå i en sluttrapport, jf. kap. 6.7.  NVE kan også kreve innsendt 
+periodiske rapporter i byggefasen.  
+6.7 Idriftsettelse og sluttrapport 
+Ved idriftsettelse skal det foreligge en plan for første gangs oppfylling av vannveien, jf. 
+damsikkerhetsforskriften § 6-2. Det skal kontrolleres at rør med koblinger og muffer er 
+tette og at det ikke har oppstått svikt ved fundamenter. Med tett stengeorgan oppstrøms 
+og nedstrøms kan tetthet for nedgravd rør kontrolleres med presisjonsmanometer eller ved 
+prøving med statisk trykk ved vannstandsmåling i stigerør. Er maksimalt statisk trykk 
+over 5 bar, praktiseres normalt trinnvis trykkøkning og mellomliggende kontroll dersom 
+annet ikke er beskrevet i oppfyllingsprosedyren. Ved kontrollen tas det hensyn til aktuelle 
+temperaturvariasjoner, vannmetting av betongforing og sig av PE- eller GRP-rør.  
+Prosjekteringsforutsetninger knyttet til fastlagt karakteristisk innvendig rørtrykk ved 
+turbin eller pumpe skal kontrolleres ved prøve og dokumenteres ved idriftsettelsen. 
+Forholdene ved andre vannstander enn ved prøvevannstanden kan dokumenteres ved 
+beregning. Videre kontrolleres det at andre normale driftssituasjoner, for eksempel med 
+full pålasting eller ved bruk av omløps- eller tappeventiler, ikke gir ugunstigere forhold 
+enn forutsatt i prosjekteringen.   
+Ved bygging og fornyelse av rørgater skal det utarbeides en sluttrapport med resultat av 
+alle prøver og inspeksjoner samt ajourførte tegninger. Protokoll fra idriftsettelsen skal 
+inngå i rapporten. Rapporten sendes NVE senest 6 måneder etter avslutning av arbeidene, 
+jf. damsikkerhetsforskriften § 6-1 og retningslinjer for planlegging og bygging.  
+6.8 Tilsyn med rør 
+Det skal foreligge en plan for overvåking av røret med tilhørende komponenter, jf. 
+damsikkerhetsforskriften § 7-2. For småkraftverk hvor inntaksdammen kommer i 
+konsekvensklasse 0 og trykkrøret i konsekvensklasse 1 eller høyere, vil tekniske krav i 
+damsikkerhetsforskriften kun gjelde for røret. NVE kan for et slikt konkret anlegg gi 
+dispensasjon fra kravet om fullt tilsynsprogram for røret. Et forslag til forenklet 
+tilsynsprogram skal utarbeides og sendes NVE, og senest samtidig med innsending av 
+sluttrapporten, jf. siste avsnitt i kap. 6.7.   
+På grunn av faren for at større røtter o.l. på sikt kan gjøre skade på nedgravde rør vil ikke 
+NVE tillate at det beplantes skog/vokser opp større trær over og nær inntil rørgata. Jf. 
+ellers damsikkerhetsforskriften § 5-6 om nødvendig adkomst til et vassdragsanlegg for 
+tilsyn, drift og vedlikehold. 
+ 
+ 
+28 
+7 Referanser 
+[1] OED (2010), Forskrift om sikkerhet ved vassdragsanlegg (damsikkerhetsforskriften). 
+[2] NVE (2003), Retningslinjer for laster og dimensjonering. 
+[3] NS-EN 10204 (2005), Metalliske materialer, Typer av inspeksjonsdokumenter. 
+[4] NS-EN 1503 (2000), Ventiler - Materialer for hus og deksler. 
+[5] NS-EN 1563 (1997), Støperiteknikk – Kulegrafittjern. 
+[6] SN-EN 10203 (1992), Cold reduced electrolytic tinplate. 
+[7] NS-EN 545 (2002), Vannledninger, rør, rørdeler og tilbehør av duktilt støpjern og 
+deres sammenføyninger, Krav og prøvingsmetoder. 
+[8] NS-EN 1561 (1997), Støperiteknikk - Grått støpejern 
+[9] NS-EN 1796 (2006), Rørledninger av plast for vannforsyning med og uten trykk, 
+Glassfiberarmert herdeplast (GRP) basert på umettet polyesterplast (UP). 
+[10] NS-EN 14364 (2009), Avløpsledninger av plast med eller uten trykk - 
+Glassfiberforsterket herdeplast (GRP) basert på umettet polyesterharpiks (UP) - Krav 
+til rør, deler og skjøter. 
+[11] NS-EN 12201 (2003), Rørledninger av plast for vannforsyning, Polyetylen (PE), Del 
+1: Generelt. 
+[12] NS-EN 338 (2003), Konstruksjonstrevirke – Fasthetsklasser. 
+[13] NS 3470 (1999), Prosjektering av trekonstruksjoner, Beregnings- og 
+konstruksjonsregler, Del 1: Allemenne regler. 
+[14] NS-EN 206-1 (2003), Spesifikasjon, egenskaper, fremstilling og samsvar. 
+[15] NS-EN 639 (1994), Generelle krav til trykkrør av betong inklusive skjøter og deler. 
+[16] NS-EN 641 (1994), Armerte sirkulære trykkrør av betong inklusive skjøter og deler. 
+[17] NS-EN 642 (1994), Forspente sirkulære og ikke-sirkulære trykkrør av betong, 
+inklusive skjøter, deler og spesielle krav til stålforspenning for rør. 
+[18] NS 3472 (2001), Prosjektering av stålkonstruksjoner, Beregnings- og 
+konstruksjonsregler, 3. utg. 
+[19] NS-EN 13445 (2009), Ikke-fyrte trykkbeholdere. 
+[20] NS 3471 (2001), Prosjektering av aluminiumskonstruksjoner, Beregnings- og 
+konstruksjonsregler. 
+[21] NVE (1942), Vassdragstilsynets regler for kontinuerlig bygde trerør. 
+[22] Arbeidstilsynet (2009), Forskrift om maskiner. 
+[23] Arbeidstilsynet (1982), Forskrift om tekniske innretninger. 
+ 
+ 
+29 
+[24] Vassdragsregulantenes forening (1993), Rørledninger for vannkraftanlegg. 
+Prosjektering, drift og vedlikehold. 
+[25] NVE (2005), Retningslinjer for betongdammer. 
+[26] NS 3473 (2003), Prosjektering av betongkonstruksjoner, Beregnings- og 
+konstruksjonsregler. 
+[27] NVE (2001), Retningslinjer for planlegging og bygging. 
+ 
+ 
+30 
+Vedlegg A. Materialer/ Stål 
+Ståltykkelse, beregningstemperatur og eventuell varmebehandling av påkjente sveiser er 
+vesentlig ved valg av kvalitetsklasse, herunder krav til slagseighet. For vanlig lagerført 
+stål benyttes ofte følgende grenser.  
+Tabell A.1 Veggtykkelse og materialkvalitet 
+Standard og materialkvalitet 
+Tilstand og maksimum veggtykkelse 
+NS -EN 10025-2 
+S235JR 
+NS -EN 10025-2 
+S355J2 
+-10 °C, Ikke sveist, eller varmebehandlet etter sveising 
+≤ 30 mm 
+> 30 mm 
+-10 °C, Bærende deler sveist uten varmebehandling etterpå  ≤ 10 mm 
+≤ 28 mm 
+-30 °C, Ikke sveist, eller varmebehandlet etter sveising 
+≤ 10 mm 
+> 30 mm 
+-30 °C, Bærende deler sveist uten varmebehandling etterpå 0 mm 
+≤ 17 mm 
+ 
+Ved lavere temperaturer og/eller større godstykkelser enn angitt i tabellen, brukes 
+finkornstål, eksempelvis i henhold til NS-EN 10025-3, kvalitetsklasse N eller NL.
+ 
+ 
+31 
+Vedlegg B. Dimensjonering 
+generelt 
+B. 1 
+Bruk av sikkerhetsfaktorer eller 
+leverandørregler 
+Ved dimensjonering med faste sikkerhetsfaktorer eller leverandørregler benyttes 
+karakteristisk last.  
+For trykkpåkjente konstruksjoner kan NS-EN 13445 benyttes. Standarden gjelder 
+hovedsakelig konstruksjoner av stål. Ved overveiende statisk belastning samt 
+lastforutsetninger, beregningsregler, utførelse og kontroll slik standarden forutsetter, skal 
+fastlagte globale spenninger hovedsakelig oppvise 1,5 som sikkerhet mot flyting og 2,4 
+som sikkerhet mot brudd. Standardens beregningsregler inkluderer dessuten kontroll mot 
+utmatting. 
+Komponenter i vassdragsanlegg har ofte andre lastforutsetninger enn det standardiserte 
+beregningsregler forutsetter. NS-EN 13445 åpner for alternative beregningsmetoder for 
+alle typer laster, herunder bruk av partialkoeffisienter. 
+NS-EN 13445 benytter Tresca kriteriet ved kombinerte spenninger i motsetning til denne 
+retningslinjens kapittel 4.1 og NS 3472 som benytter von Mieses kriterium. Ved en 
+dominerende hovedspenning gir kriteriene det samme resultatet. 
+NS-EN 13445 tillater lokal flyting ved lokale spenningsspisser når det forutsettes 
+overveiende statisk belastning. 
+For mindre stålrør kan NS-EN 13480 benyttes i stedet for NS-EN 13445. For flere 
+rørtyper finnes også egne standarder som i hovedsak beskriver rørmaterialenes kvalitet og 
+dimensjoner. I liten grad behandles dimensjonering hvor rør inngår i et system. 
+Ved bruk av standarder for ulike konstruksjoner, eventuelt leverandørregler, kontrolleres 
+dimensjonering og sikkerhetsnivå ut fra NVEs krav. En bør imidlertid ikke underskride 
+det sikkerhetsnivå som standarder og leverandørregler anbefaler, selv om det 
+tilsynelatende er høyere enn det minimum som NVE forutsetter. 
+Skruer kan beregnes etter NS-EN 13445. Ved beregning etter NS 3472 skal fy 
+(flytegrense) benyttes i beregningene i stedet for fu (bruddgrense). Skruer utsatt for 
+varierende belastning skal dimensjoneres for utmatting og skal ha kontrollert tiltrekking. 
+Nagleforbindelser kan beregnes som skjærpåkjente skruer. 
+B. 2 
+Dimensjonerende levetid, utmatting 
+Ved komponenter hvor materialegenskapene reduseres med tiden, eller hvor en vil få en 
+svekkelse på grunn av reduserte muligheter for tilsyn og vedlikehold, bør 
+dimensjonerende levetid være minst 50 år når annet ikke fastlegges særskilt. Det samme 
+gjelder for komponenter utsatt for utmatting. 
+ 
+ 
+32 
+Ved utmattingsgrensetilstand kan lastfaktor γf = 1.0 benyttes i forbindelse med 
+utmattingskurvene i NS 3472, 3. utgave eller NS-EN 13445-3, under forutsetning av at 
+antall lastvekslinger multipliseres med følgende faktorer, jf. NS 3490, tabell J.3: 
+Tabell B.1 Faktor for lastvekslinger 
+Tilgjengelighet for inspeksjon og reparasjon 
+Tilgjengelig 
+ 
+ 
+Bruddkonsekvens 
+Ikke, eller 
+vanskelig 
+tilgjengelig 
+I vannveien 
+Utenfor vannveien 
+Klasse 2 og høyere 
+10 
+3 
+2 
+Klasse 1 
+3 
+2 
+1 
+ 
+For komponenter i tørr luft benyttes kurver i henhold til fig. 28 og i ferskvann eller fuktig 
+luft i henhold til fig. 29 i NS 3472 3. utgave eller eksempelvis fig. 17-4 i NS-EN 13445-3, 
+variabel amplitude. 
+Komponentene behøver vanligvis ikke å kontrolleres mot utmatting hvis det under drift er 
+nær statisk belastning og mindre enn 1000 fulle lastvekslinger mellom ikke påkjent og 
+normalt påkjent tilstand. 
+Komponentene er ofte utsatt for en kombinasjon av ulike variable påkjenninger, og 
+vanligvis benyttes Miner-Palmgrens delskadeteori ved vurderinger som eksempelvis 
+angitt i de ovenfor nevnte standarder. 
+For varegrinder og andre komponenter hvor lasttransienters frekvens kan avhenge av 
+spesielle forhold, eksempelvis tilstopping, bør vibrasjoner regnes ut fra minst 3 ganger 
+normal bruttohastighet. 
+B. 3 
+Beskyttelse mot nedbrytning 
+Utsatte flater beskyttes med egnet overflatebehandling. For flater utsatt for sollys, 
+vurderes beskyttelse mot UV-stråling. Ved nedgravde komponenter tas det hensyn til fare 
+for mekanisk skade og aggressive grunnforhold. 
+Godstykkelsesfradrag for korrosjonsutsatt flate som angitt i kapittel 4.2 gjelder selv om 
+flaten er korrosjonsbeskyttet med maling, eksempelvis i henhold til EnFOs 
+"Malingspesifikasjon for maskinteknisk vannkraftutstyr", Publikasjon 277-1998 eller NS-
+EN ISO 12944. Fradraget gjelder ikke ved: 
+I Flater som er lett tilgjengelig for vedlikehold. 
+I Flater med ”ekstra” korrosjonsbeskyttelse, eksempelvis varmforsinket eller 
+katodisk beskyttet kombinert med maling. 
+I Innvendig i duktilt støpejernsrør med sementbelegging. 
+I Utvendig på duktilt støpejernsrør med tilfredsstillende korrosjonsbeskyttelse når 
+røret er frittliggende eller nedgravet over grunnvannsspeil. 
+I Konstruksjoner med kort levetid.  
+ 
+ 
+33 
+I For nedgravde koblinger og rørskjøter som har skrueforbindelser, benyttes 
+vanligvis beskyttelsestape eller tilsvarende som “ekstra” korrosjonsbeskyttelse. 
+I Rør av glassfiberarmert umettet polyester (GRP-rør) har vanligvis et slitesjikt 
+som ikke inngår ved kapasitetsfastsettelse.  
+ 
+ 
+34 
+Vedlegg C. Stenge- og 
+tappeorganer, luker 
+C. 1 
+Lukeblad og porter, plan- og 
+skallkonstruksjoner, lukelager 
+Lukeblad og porter beregnes vanligvis som fritt opplagret sentrisk på 
+glidelister/rullebaner eller anslagslister.  
+For lukeblad og porter konstruert med frontplate understøttet av bjelker beregnes to-akset 
+spenningstilstand med samvirke mellom plate og bjelker. 
+For lukeblad og porter utført som sylindrisk skallkonstruksjon med gavlplater tas det ved 
+knekkberegning hensyn til aksielle skallkrefter. Beregninger kan gjøres med 
+elementmetode eller i henhold til NS-EN 13445. Ved bruk av andre beregningsmodeller 
+må det kontrolleres at sikkerhetsnivået er sammenlignbart med det som NS-EN 13445 
+forutsetter. Ved bruk av teoretiske beregningsmodeller korrigeres disse for geometrisk 
+formfeil, slankhet, egenspenninger m.m. 
+For lukeblad utført som torsjonsstiv bokskonstruksjon, eksempelvis klappeluke eller 
+segmentluke med ensidig opptrekk, kan kontroll av vridningsdeformasjon samt 
+spenningskonsentrasjoner ved opptrekkside og ved lagre bli av betydning. 
+Portblad utført som dobbeltkrum endebunn kan dimensjoneres i henhold til NS-EN 
+13445. 
+For store luker utsatt for sollys, vurderes det om det må tas hensyn til termisk utvidelse. 
+Luker med oppstrøms tetning må spesielt kontrolleres for utbøying langs tetningsflaten.   
+Det bør anvendes smøringsfrie lagringer med korrosjonsfrie flater. Avhengig av 
+forholdene beskyttes disse mot forurensning med egne tetninger. Kravet gjelder også 
+spesiallagre, eksempelvis sfæriske glidelagre.  
+Utforming og dimensjonering av luftearrangement vektlegges spesielt for tappeanlegg 
+med trykkdifferanse over 20 m. Referanser er EnFO-publikasjon nr. 101-1995 
+”Høytrykks tappeluker” og VHL-rapport ”Retningslinjer for hydraulisk utforming av 
+tappeluker” (1974) med tilhørende tilleggsrapporter. Forutsettes det at luftbehovet i m3/s 
+tilsvarer maksimal tappevannføring i m3/s, er dette et anslag som for de fleste tilfeller 
+ligger på trygg side av det nødvendige. Unntak gjelder når tapping medfører skummende 
+avløp som fyller nedstrøms lukket vannvei. Er derimot plassforhold og vannstand 
+nedstrøms tappeorganet slik at luft fra nedstrøms side kan påregnes, blir nødvendig tilført 
+luftmengde svært liten. Maksimal lufthastighet i lufterør settes normalt til ca 50 m/s. Det 
+skal legges spesiell vekt på faren for ising vinterstid. 
+C. 2 
+Platekasse 
+Utvendig overtrykk på grunn av vanntrykk mellom innstøpt platekasse og betong må 
+overføres til omkringliggende betong dersom platekassen ikke er selvbærende. 
+ 
+ 
+35 
+Platekassen utføres med ribber, eventuelt med forankringsstål. Det kontrolleres at betong 
+og eventuell armering har tilstrekkelig kapasitet for overføring av aktuelle krefter.  
+Forankringsstål kan regnes i henhold til NS 3473. Ved dynamiske påkjenninger 
+forutsettes det at all last overføres av forankringsstål, ikke av ribber.  
+For platekasser som utsettes for høy vannhastighet, vurderes utmatting av platefelt. 
+Selvbærende, sirkulære platekasser kan dimensjoneres etter NS-EN 13445. Innstøpte, 
+sirkulære platekasser kan dimensjoneres som innstøpte rør, eventuelt med ribber og/eller 
+forankringsstål avhengig av utførelsen. 
+Lukeføringer og portkarmer med tilhørende del av platekassen er samvirkekonstruksjoner 
+mellom stål og betong, hvor en vanligvis tar hensyn til deformasjonsmønstre og ulike 
+deformasjonsmoduler. Beregninger kan i prinsippet gjøres iht. NS 3473/3476.  
+Med hensyn til utforming og dimensjonering av betongpropper vises det til kapittel F. 2.  
+C. 3 
+Manøvreringsutstyr 
+Manøvreringsutstyrets kapasitet skal sikre manøvrering ved alle aktuelle forhold og ha en 
+gjennomtenkt utførelse.  
+Motordrevet manøvreringsinnretning skal ha vern som hindrer skade ved kjøring mot 
+endeposisjon. Tilsvarende bør det være vern som begrenser manøvreringskraften ved 
+fastkjøring.   
+For manuelt manøvreringsutstyr bør kraft på sveiv eller håndtak normalt ikke overstige 
+100 N. Ved setting eller løstaking ved åpning kan maksimalkraften være 250 N. Det 
+samme gjelder manuell nødbetjening av motordrevet manøvreringsinnretning. 
+For elektrisk utstyr anbefales: 
+I FEU 1995: Forskrift om elektrisk utstyr.  
+I FEL 1998: Forskrift for elektrisk lavspenningsan-legg.  
+I NEK 400: Elektriske lavspenningsanlegg. 
+Beskyttelsesklasse i henhold til IEC-norm: Endebrytere, koblingsbokser, etc. - IP 65. 
+Motorer og elektriske skap - IP 54. Trekkbokser etc. som dykkes fylles med egnet 
+tetningsmasse. 
+Elektriske styreskap bør ha aktuelle signallamper og stillingsvisere, amperemeter og 
+startteller for motorer. Innlagt varme og innvendig belysning anvendes i den grad dette 
+blir av betydning for å sikre funksjoner. Utførelse og merking skal være oversiktlig og 
+gjennomtenkt. 
+Nødstopp og annen nødbetjening skal kunne virke uavhengig av ordinær styringslogikk, 
+PLS.  
+Benyttes det luke som rørbruddsstengeorgan, blir krav til manøvrerings-/utløsersystem 
+med overvåkning etc. sammenlignbare med krav stilt til rørbruddsventil. I denne 
+sammenheng vises det til Vedlegg E. 3.  
+ 
+ 
+36 
+C. 4 
+Glideluker 
+Glideluke anvendes både som overflateluker og i dykkede tappeløp. Glideluker kan ha 
+funksjoner som tappeluke, reguleringsluke, flomluke og inntaksluke. Som tappeluke 
+egner glideluken seg vanligvis også for bruk i mellomstillinger. 
+Moderne glideluker lages av stål. Eldre eksemplarer av beskjedne dimensjoner 
+forekommer utført av støpejern eller trevirke. Treluker er utstyrt med ståldeler som skruer 
+og beslag. Disse betraktes som stålkonstruksjoner. 
+Glideluker dimensjoneres som lukekonstruksjoner generelt. For å hindre fastkiling ved 
+stenging kan lukebladet ha sideveis styresko. Er lukebredden større enn lukehøyden, bør 
+styreruller eventuelt styreskinner vurderes. 
+For tappeluker med trykk opp til ca. 20 m er det sjelden problemer knyttet til kavitasjon 
+og vibrasjon. For trykk over 40 m er det nødvendig med spesiell utforming av lukeblad, 
+føringsnisjer og platekasse. Strømning gjennom trange spalter, spesielt mellom lukeblad 
+og toppstokk, kan gi uheldige hydrauliske effekter. Dykket utløp av høytrykks tappeluke 
+nødvendiggjør spesiell aktsomhet på grunn av vibrasjons- og kavitasjonsfare, jf. VHL-
+rapport ”Retningslinjer for utforming av tappeluker” (1974).  
+Glideluker utstyres normalt med separate gummitetninger. En enklere løsning består av 
+kombinerte tette- og glidelister. Denne er sjelden dråpetett. Små høytrykks tappeluker kan 
+ha metallisk "knivtetninger" som bunntetning. Motgående deler er da av rustfritt stål.  
+C. 5 
+Rulleluker 
+Rulleluker anvendes primært som inntaksluke i vannvei til vannkraftaggregat. Når 
+rulleluken har funksjon som inntaksluke, bør den være selvlukkende.  
+Rulleluker egner seg vanligvis ikke for kontinuerlig tapping i mellomstillinger ved trykk 
+over ca 20 m eller der det ikke er fristråleavløp. Pulserende trykkvariasjoner ved lukens 
+underkant kan sette lukeblad med opptrekk i svingninger. Hjulene er vanligvis heller ikke 
+dimensjonert for langvarig pulserende last. 
+For dimensjonering vises det til glidelukekommentar og krav knyttet til 
+hjuldimensjonering i kapittel 5.2. Når bomberte hjul (hjul med dobbelkrum bane), 
+belastes høyere enn 1000 kN, skal detaljerte beregninger foretas. 
+Last fra hjul medfører lokal deformasjon langs rullebane. Dette kontrolleres som 
+samvirkekonstruksjon mellom stål og betong. 
+Normalt har hjul faste hjulaksler. Trenger luken mer enn 4 hjul, kan fleksibilitet i 
+lukeblad eller boggie-oppdeling sikre ønsket lastfordeling mellom hjulene. 
+Rullelukehjul utføres vanligvis av martensittisk rustfritt støpt eller valset stål. 
+C. 6 
+Segmentluker 
+Segmentluke anvendes som flomluke ved dammer, reguleringsluke i dykkede tappeløp og 
+som inntaksluke. Luken har relativt sett små manøvreringskrefter, men friksjonsmomentet 
+fra tapplagret må tas med i dimensjoneringen. Luken konstrueres normalt uten lukenisjer.   
+ 
+ 
+37 
+I dykkede tappeløp er segmentluke mindre egnet hvis den får bakvann ved tapping.   
+Segmentluke med ensidig opptrekk kontrolleres for vridning.  
+Segmentluker utføres vanligvis med en konstant krummende frontplate hvor 
+krumningssentret sammenfaller med lagringsaksen. Luker utført som bokskonstruksjoner 
+kan ha ensidig montert manøvreringsutstyr og skal forsynes med mannhull for innvendig 
+adkomst. Segmentluker utstyres vanligvis med sideveis styreruller. 
+C. 7 
+Klappeluker 
+Klappeluke benyttes som manøvrerbart flomavledningsorgan eller tappeluke for 
+avledning av is og drivgods. Luken har vanligvis ensidig hydraulisk opptrekk. Tosidig 
+opptrekk eller underliggende teleskopsylinder, eventuelt gummiaktuator, er mindre 
+vanlig.  
+Klappeluke kan ha betydelig lastvariasjon ved manøvrering avhengig av lukeposisjonen. 
+Likeledes kan lukelagerlasten variere betydelig fra lukelager til lukelager. Her vil også 
+statisk trykk under luken når denne er åpen og vann strømmer over, bli av betydning. 
+Luke med ensidig opptrekk kontrolleres for vridning. 
+Vanlig moderne utførelse av større klappeluke består av torsjonsstiv, lukket 
+bokskonstruksjon med ensidig opptrekk. Det skal være mannhull som adkomst for tilsyn 
+og vedlikehold. Ved valg av tetningsutførelse og opptrekksarrangement tas det hensyn til 
+fare for fastkiling av fremmedlegemer, skadevirkninger fra is, etc. Tetningssystemet er 
+vanligvis mer problematisk for klappeluker enn for segmentluker.  
+C. 8 
+Gummiluker 
+Gummiluke anvendes for begrenset oppdemming med beskjedent oppstrøms 
+magasinvolum.  
+Lukekroppen består av et oppfyllbart røraktig legeme av armert gummiduk. Lukekroppen 
+fylles med trykkluft eller vann som må frostsikres.  
+Luke med frontskjold av stål som løftes av underliggende oppblåsbar gummipute, anses 
+som klappeluke, ikke som gummiluke. Krav knyttet til manøvreringssystem, fyllings- og 
+tømmesystem blir imidlertid her som for gummiluker. 
+For å unngå v-formet innknekking av lukekroppen og vibrasjon i denne, forutsettes det at 
+laveste høyde for delvis hevet luke når det tappes vann over denne, er 80 % av 
+konstruksjonshøyden for vannfylt luke. Luftfylte luker bør enten være fullt oppe eller helt 
+nede. Luketypen egner seg ikke som reguleringsluke. 
+I gummilukers manøvreringssystem inngår to uavhengige kompressorer, eventuelt to 
+uavhengige pumper, for fylling av lukekropp. For ordinær tømming skal det være to 
+uavhengige ventiler. Dertil kommer et automatisk virkende og uavhengig 
+nødtømmesystem som skal hindre overbelasting av gummilukens duk ved 
+vannovertopping.  
+ 
+ 
+38 
+C. 9 
+Sektorluke 
+Sektorluken er en damluke som tapper fra fri vannoverflate. Luketypen har vært benyttet i 
+forbindelse med tømmerfløting samt for fjerning av oppstrøms is og drivgods. 
+Manøvrering skjer med tosidig opptrekk eller med vannhydraulikk ved at lukebrønnen 
+fylles/tømmes.  
+For nyinstallasjon anses sektorluke uaktuell.  
+C. 10 
+Valseluke 
+Valseluken var første damluke av stål som ble i stand til å spenne over stor bredde. 
+Tapping skjer fra konstruksjonens underside. Konstruksjonens bærende element er en 
+sylinder som spenner over lukeløpet. I tillegg er luken utstyrt med et skjold som enten 
+dekker nederste del av oppdemningshøyden eller som ligger foran bæresylinderen og 
+dekker hele oppdemningshøyden. Ved manøvrering ruller og klatrer konstruksjonen på 
+skinner/fortanninger i sidene. Manøvrering skjer med ensidig kjedeopptrekk.  
+For nyinstallasjon anses valseluke uaktuell.   
+ 
+ 
+39 
+Vedlegg D. Stenge- og 
+tappeorganer, stengsler 
+Stengsler utføres med horisontale bjelker (bjelkestengsel) eller vertikale nåler 
+(nålestengsel). Bjelkene i et bjelkestengsel spenner over hele strømløpet. Nålene i et 
+nålestengsel er lagret mot et anlegg i bunnen av strømløpet og mot en bjelke som spenner 
+over strømløpet.  
+Stengsler anses uegnet for flomavledning, og tillates ikke, jf. damsikkerhetsforskriften § 
+5-8. Stengslene har størst anvendelse som provisoriske avstengninger som i 
+regelverksammenheng skal oppfattes som stenge-/tappeorgan. Bjelker og nåler kan være 
+utført av stål, aluminium eller trevirke. Anleggsflater og føringer utføres normalt i 
+rustfritt stål. 
+Bjelker og nåler i aluminium gir på grunn av lav E-modul store deformasjoner som en må 
+ta hensyn til.  
+ 
+ 
+40 
+Vedlegg E. Stenge- og 
+tappeorganer, ventiler 
+E. 1 
+Ventilfunksjoner 
+Aktuelle ventilfunksjoner er: 
+I Stenging og åpning skjer uten vanngjennomstrømning. Revisjonsventiler er av 
+denne type. Dominerende belasting blir vanntrykk.  
+I Stengning og åpning skjer normalt uten vanngjennomstrømning. Ventilene skal i 
+en ulykkessituasjon kunne stenge ved en betydelig vanngjennomstrømning, men 
+med redusert sikkerhetsfaktor. I tillegg til statisk vanntrykk har en dynamiske 
+krefter fra strømmende vann.  
+I Nødstenging hvor stenging skjer med betydelig vanngjennomstrømning. 
+Trykklassenormering tar ikke hensyn til slik funksjon. Ventil som fungerer som 
+nødstengeventil for turbin, dimensjoneres for stenging ved maksimal 
+turbinvannføring. Rørbruddsventil dimensjoneres for stenging ved maksimal 
+stasjonær bruddvannføring. For slike ventiler er de dynamiske kreftene fra 
+strømmende vann vesentlig. 
+I Tapping med betydelig og varierende vannføring over lang tid. Her benyttes 
+spesielle ventiltyper hvor manøvreringsevne, kavitasjonssikkerhet og 
+utmattingssikkerhet er viktige faktorer.  
+E. 2 
+Dimensjonering  
+Seriefremstilte ventiler er i stor grad standardisert ut fra trykklasse og normtrykk (PN). I 
+denne sammenheng legges det ofte til grunn standarder som angir krav til tetthet, 
+materialer og dokumentasjon, eksempelvis NS-EN 1074 som benyttes for ventiler i 
+vannforsyningsanlegg. For ventiler etter denne standard skal karakteristisk trykk ikke 
+overstige PFA-trykket.  
+Ventilhus trykkprøves vanligvis med 1,5 ganger normtrykket (PN). Tetthetsprøve for 
+stengt ventil skjer som regel ved normtrykk. 
+Hydrodynamisk last ved vanngjennomstrømning kan bli betydelig. For spjeld- og 
+kuleventiler anvendt som nødstengeorgan, er lasten størst ved delåpning. Her benyttes 
+loddarm for å starte og å avslutte lukkebevegelsen. I mellomposisjon blir den 
+hydrodynamiske lasten dominerende, gir stengende moment og er bestemmende for 
+dimensjoneringen av ventilpådraget som skal bremse stengehastigheten. Aktuell 
+hydrodynamisk last fastlegges normalt ved hjelp av erfaringsdata som funksjon av 
+ventildimensjon, ventilåpning og gjennomstrømningshastighet. 
+Seriefremstilte ventiler har ofte pådrag tilpasset manøvrering ved liten trykkdifferanse, 
+det vil si begrenset vannhastighet. For ventiler i henhold til NS-EN 1074 øker maksimalt 
+tillatt vannhastighet fra 2,5 m/s ved PN 6 via 3 m/s ved PN 10, 4 m/s ved PN 16 opp til 5 
+m/s ved PN 25.  
+ 
+ 
+41 
+For ventiler som benyttes til kontinuerlig tapping eller regulering av vannstrømmen blir 
+kavitasjonsproblematikk vesentlig. Skadelig effekt kan til dels motvirkes ved egnet 
+materialvalg og god ventilutforming. For ventil med fritt utløp kan lufting være 
+uproblematisk. For ventil med avløp til vannfylt rør, eksempelvis rørbruddsventil, er det 
+viktig å tilføre luft på riktig sted. Se for øvrig C. 1. Dessuten blir størrelsen av nedstrøms 
+strømningstverrsnitt av betydning. Ved tappesystemer hvor det ikke er behov for å 
+regulere vannføringen, kan man med fordel benytte nedstrøms blendesats. 
+Større, ikke seriefremstilte ventiler dimensjoneres særskilt i hvert enkelt tilfelle ut fra 
+faktiske belastninger. I tillegg til generelle regler for materialvalg og sikkerhetsfaktorer 
+legger leverandørene ofte til grunn egne erfaringsdata ved dimensjoneringen. 
+E. 3 
+Rørbruddsventil 
+Som rørbruddsstengeorgan ved små og mellomstore trykk velges vanligvis spjeldventil. 
+Ved høye trykk kan kuleventil komme til anvendelse. Med en enkeltvirkende hydraulisk 
+sylinder for åpning og loddarm for lukking, kan disse gjøres selvstengende slik at ventilen 
+stenger uten ekstern energitilførsel. En blende som begrenser oljestrømmen ut fra 
+hydraulikksylinderen når rørbruddsventilen stenger, gir ventilen en kontrollert og 
+akseptabel lukketid.  
+Alternativ til rørbruddsventil er selvstengende luke, for eksempel rulleluke.  
+Velges et annet stengesystem hvor stenging avhenger av fjærkraft eller trykkolje fra 
+akkumulator, må det kontrolleres at det under hele stengeforløpet er tilstrekkelig 
+manøvreringskraft og, spesielt for spjeld- eller kuleventiler, tilstrekkelig bremsekraft for å 
+få kontrollert lukking under alle forhold.  Benyttes glideluke eller skyvespjeldventil blir 
+siste del av stengingen kritisk. Da er nødvendig manøvreringskraft størst og 
+akkumulatortrykket minst.  
+Automatisk utløsning av stengning ved rørbrudd skal være uavhengig av ytre 
+strømtilførsel, og stilles inn for utløsing ved en vannføring 10-15 % over maksimal 
+turbinvannføring, eventuelt 10-15 % over innstilt turbinvannføring. En anvendt utførelse 
+er basert på bruk av sylindersonde montert i vannveien eller måling av rørveggtrykk på 
+begge sider av en tverrsnittsovergang i røret oppstrøms. Trykkdifferansen benyttes til å 
+aktivere en elektrisk bryter, eller til å åpne en drenasjeventil i det hydrauliske systemet 
+eller til å trekke ut en låsehake når det er mekanisk sperre mot lukking.  
+En annen utførelse er basert på impulskraften fra strømmende vann, som ved en viss 
+hastighet får et lodd eller flapp, ”flyndre”, inne i røret til å vippe over og via en 
+gjennomgående aksel aktiverer en elektrisk bryter, eller åpner en ventil eller trekker ut en 
+låsehake. Nødvendig impulslast for å bevege strømningslegemet innstilles ved hjelp av 
+lodd eller fjær.  
+Ved begge forannevnte utløsningssystemer blir utløsende last proporsjonal med kvadratet 
+av vannets strømningshastighet.  
+I tillegg til dette finnes det også målere som ved ultralyd registrerer vannhastighet og som 
+via et elektrisk styresystem vil kunne utløse stenging av rørbruddsventil. Benyttes et 
+system av denne type, må sikker strømforsyning med batteri etableres.  
+ 
+ 
+42 
+Utløsningsutstyret som står montert innvendig i røret, skal plasseres slik at sikker 
+utløsningsfunksjon blir ivaretatt. Her tas det hensyn til strømningsforhold ved rørfylling, 
+mulig luftinnsugning og strømningsvirvler/strømningsskygger som kan påregnes. Utstyret 
+må i tillegg være stabilt og robust både for å unngå utilsiktet utløsing pga tilfeldige 
+strømningsvirvler, lett tilgroing eller gress. Tilgroing eller akkumulert slam etc. skal 
+heller ikke forhindre lukking når det trengs.  
+I tillegg til automatisk rørbruddsstengeutløsning skal det ved anlegg i konsekvensklasse 2 
+og høyere være utstyr som muliggjør fjernutløst stenging av rørbruddsstengeorgan.  
+Stengeorganet skal utstyres med endebrytere for signalgiving ved åpen og stengt stilling i 
+tillegg til begynnende lukking. Signalet for begynnende lukking skal samtidig gi signal 
+for aggregatstopp i kraftstasjonen.  
+Signalforbindelse mellom kraftstasjonen og stengeorgan skal ikke kunne skades ved et 
+rørbrudd og skal skjermes mot uønsket virkning fra atmosfæriske forstyrrelser, 
+overspenninger etc.  
+For rør i konsekvensklasse 3 og høyere skal rørbruddsventil utløses når vannføringen 
+gjennom rørbruddsventilen overskrider innstilt turbinvannføring. Vannføringsmåling kan 
+for eksempel skje oppstrøms ventilen og la utløsersystemet sammenholde dette med målt 
+vannføring (eventuell måling av effekt og databeregnet vannføring) ved turbin/pumpe. 
+Lukking initieres ved en differanse på 5-15 % i vannføringen over en viss tid.  
+For anlegg i konsekvensklasse 2 og høyere hvor rørbruddsstenging krever strømtilførsel, 
+skal denne sikres med nødvendig batterikapasitet.  
+ 
+ 
+43 
+Vedlegg F. Stengeorganer, 
+tverrslagsporter 
+F. 1 
+Hoveddeler 
+I forbindelse med en tverrslagsport kan man ha følgende hoveddeler: 
+I Portblad 
+I Opplagringskarm 
+I Kledning (stålforing/platekasse) på vannside 
+I Kledning (stålforing/platekasse) på luftside 
+I Tappesystem, det vil si rør med ventil(er) for tørrlegging  
+Enkelte installasjoner kan være uten lokalt tappesystem, eller uten kledning på vannsiden 
+eller luftsiden. Det finnes også eksempler på lavtrykksporter hvor kledning er sløyfet 
+både på vannside og på luftside.  
+For porter med både vannside- og luftsidekledning er det vanligvis slik at vannside-
+kledningen sørger for tetting fra vannside til luftside mellom stålkonstruksjon og betong.  
+Tappesystemer installert ved tverrslagsporter er sjelden dimensjonert for å kunne tappe 
+ved maksimalt oppstrøms vanntrykk.   
+F. 2 
+Dimensjonering 
+Rektangulære portblad dimensjoneres som lukeblad av tilsvarende design. Sirkulære 
+portblad med dobbelkrumt trykkskall kan dimensjoneres i henhold til NS 13445. Ved 
+slanke skallporter er det ofte nødvendig å ta hensyn til opplagringsdeformasjon. 
+Karm med tilhørende del av platekasse fungerer som bærende struktur i samvirke med 
+tilgrensende betong. Karm, platekasse og armering bør ved dimensjonering vurderes 
+under ett. 
+Kledningslengde fastlegges ut fra vanntrykk og hensyn til lastoverføring fra 
+opplagringskarm til fjell og er vanligvis ikke mindre enn 2 % av karakteristisk vanntrykk 
+(meter vannsøyle).  
+For alle klassifiserte vannveier skal betongpropper før de kommer til utførelse vurderes 
+av godkjent fagansvarlig i nært samarbeid med ingeniørgeolog. Disse vurderer proppens 
+plassering med hensyn til fjelloverdekning, fjellkvalitet, eventuell injeksjonsskjerm, 
+grunnvannsnivå etc. Avhengig av om tunnelen sprenges eller bores vurderes spesielt 
+tillatt heftspenning langs proppens kontaktflate mot fjell avhengig av fjellets trykkstyrke 
+og kontaktflatens ruhet.  
+Nødvendig betongpropplengde er ofte større enn lengden på stålkledningen. For grove 
+anslag over lengden på betongpropper og uten nærmere undersøkelser av fjellet hvor 
+proppen plasseres, skal betongproppen tilfredsstille følgende 3 krav:  
+ 
+ 
+44 
+I Skjærspenningen i kontaktflaten mellom betong og fjell (heftspenningen) skal 
+ikke settes høyere enn 0,35 N/mm2 dersom ikke nærmere undersøkelser av fjellet 
+dokumenterer noe annet. 
+I Hydraulisk trykkgradient langs betongproppen skal være mindre enn 0,5 
+N/mm2/m eller 50 m vanntrykk pr. m propplengde. 
+I Lengden på betongproppen skal minst være 2 ganger største tverrsnittsdimensjon, 
+høyde (h) eller bredde (b) av tunnel. Betongpropper i store tunneler og med lave 
+vanntrykk (mindre enn 100 m) kan og bør vurderes spesielt.  
+Fjellet rundt proppen skal, i et område som er vurdert av geolog, injiseres for å sikre 
+tetting av mulige lekkasjeveier. Ved tett fjell og relativt lange betongpropper i forhold til 
+trykket kan det være tilstrekkelig med injeksjonsdybde på 1,5 – 2,0 m i fjell før støping 
+av proppen. Ved høyere trykk og korte betongpropper, spesielt hvis de er kortere enn 
+nevnt ovenfor, er det vanlig med en dypinjeksjonsskjerm på 15 – 30 m. Injeksjonen 
+utføres normalt med trykk i størrelsesorden som vanntrykk mot proppen.  
+Når proppen er ferdig herdnet og temperaturen i betongen er som omkringliggende fjell 
+skal kontaktflaten fjell/betong injiseres i hele proppens lengde. Kontaktinjeksjonen 
+utføres normalt med trykk 10 – 20 % høyere enn vanntrykket mot proppen. 
+Normalt blir det også injisert mellom stålkledning og betong. Stålkledningen med ribber 
+og forankringsstål må utformes og dimensjoneres med tanke på en slik injisering.  
+Lukepropper og propper i forbindelse med rørinntak, eksempelvis betongpropp i 
+overgang mellom tunnel og frittliggende rør, skal behandles på tilsvarende måte som vist 
+over.  
+F. 3 
+Utførelse 
+Rektangulære portblad utføres med enkeltkrummet trykkskall eller med frontplate 
+understøttet av bjelker. Sirkulære portblad har dobbelkrummet trykkskall. I 
+unntakstilfeller er portblad laget av massiv stålplate. Portbladet er vanligvis hengslet til 
+opplagringskarmen slik at vanntrykket presser det mot denne. 
+Mellom portblad og karm er det gummitetning. Her skal det også være et system for 
+forspenning/låsing av portblad mot karm slik at tetning sikres. Hvis sand/grus kan legge 
+seg opp innenfor portbladet bør konstruksjonen utstyres med jekkefester for åpning. I 
+tillegg har man da som regel et mannhull til bruk ved større løsmasseblokkering. 
+Injeksjonsskjerm for tetting mellom betong og fjell samt i fjell legges ofte i portblad-
+tverrsnittet. Legges injeksjonsskjermen lenger ned mot proppens luftside kan dette være 
+for å utnytte trykksonene som portbladlasten påfører strukturene.  
+Tappesystemets innstøpte rør bør være av rustfritt stål.  
+ 
+ 
+45 
+Vedlegg G. Rør og 
+fundamentering 
+G. 1 
+Rør generelt - dimensjonering og utførelse 
+G. 1.1 
+Rør generelt 
+Ved rørsystemer uten ekspansjonsmuligheter, herunder nedgravde rør, eller ved bend som 
+ikke fastholdes, skal spenninger og deformasjoner beregnes ved trykk og 
+temperaturvariasjoner relativt til forholdene ved legging. 
+Rør dimensjoneres generelt for innvendig og eventuelt utvendig trykk, samt for 
+aksialkrefter forårsaket av det systemet de er del av. Dessuten skal: 
+I Frittliggende rør kontrolleres for aksialkrefter grunnet temperatur og 
+trykkvariasjoner kombinert med langsgående bøyespenninger og lokale 
+bøyespenninger ved opplagre. Eventuelle miljølaster (snø, vind) tas med. 
+I Nedgravde rør kontrolleres for aksialkrefter grunnet temperatur- og 
+trykkvariasjoner samt utvendige påkjenninger fra jordtrykk og trafikklaster. 
+I Rør stabilitetskontrolleres både for normal røravvinkling når en tar hensyn til 
+montasjetoleranser, og for krefter ved bend og andre formstykker. Det tas spesielt 
+hensyn til påkjenninger ved eventuell trykkprøving.  
+G. 1.2 
+Bend og forgreninger 
+Innstøpte bend sammensatt av segmenter med mindre knekkvinkel enn 10° utføres ofte 
+med samme godstykkelse som tilstøtende rør uten tilleggsberegninger. For øvrig bør 
+tilleggspåkjenning kontrolleres på grunn av bøyemoment i knekker.  
+Frittliggende bend som påvirkes av tilliggende rør kan regnes etter NS-EN 13480. Ved 
+bruddkonsekvensklasse 2 og høyere bør frittliggende bend kontrolleres med nøyaktigere 
+metode. 
+Forgreninger og bukserør i stål kan når største nominelle diameter ikke overskrider DN 
+500 og produktet av nominell diameter (m) og karakteristisk trykk (MPa) er mindre eller 
+lik 0,2, regnes etter NS-EN 13480. Forgreninger i bruddkonsekvensklasse 2 og høyere 
+kontrolleres beregningsmessig med nøyaktigere metode. Forgreninger som støpes inn kan 
+ved elementberegning forutsettes aksielt fastholdt ved forgreningens rørender når 
+trykkprøving før innstøping ikke gjennomføres. 
+G. 1.3 
+Flensforbindelser 
+Flensforbindelser, koblinger, ekspansjonsbokser, blindlokk, mannlokk etc. kan regnes 
+etter NS-EN 13445-3. 
+Deler hvor forspent skrueforbindelse kan gi betydelige ekstraspenninger, 
+kontrollberegnes med forspenningslast tilsvarende foreskrevet momenttiltrekking av 
+skruene. Dette gjelder blant annet flensforbindelser hvor det ikke er flensanlegg i 
+skruesnittet. 
+ 
+ 
+46 
+G. 1.4 
+Koblinger 
+Eksempel på konstruksjoner som skal dimensjoneres med sikkerhetsfaktor 2,4 referert til 
+karakteristisk fasthetsverdi, se pkt. 6.2, er kobling hvor deformasjon kan muliggjøre 
+utpressing av tetningsring. 
+Koblingsberegning kan alternativt erstattes av typeprøver, hvor det også skal undersøkes 
+forhold ved akseforskyvning, avvinkling og vekslende aksialforskyvning av tilstøtende 
+rørdeler. For ugunstig virkende friksjons eller deformasjonskrefter fastlagt ved målinger 
+ved romtemperatur og laboratorieforhold benyttes vanligvis lastfaktor γf = 1,4 ved 
+omregning til anleggsforhold. 
+Kobling med gummipakning og aksiell forspenning av pakningen benyttes i hovedsak på 
+rør av stål eller duktilt støpejern, i liten grad på GRP-rør. Slik kobling består av en 
+muffeliknende del utstyrt med flenser, glander, skruer og tetning. Mantelen påkjennes av 
+innvendig trykk og får hovedsakelig ringspenninger. Flenser og skruer dimensjoneres for 
+skrueforspenning samt aksiallast grunnet vanntrykk og bevegelse mellom kobling og rør. 
+Tetninger er vanligvis av EPDM-gummi (NS-EN 681). Koblingstypen kan i noen grad 
+overføre skjærlast og har ofte senterplugger eller ribber som hindrer aksiell forskyvning. 
+Den er ikke konstruert for å gli på røret. Mindre aksialbevegelser opptas ved deformasjon 
+i tetningsring. Aktuell ”fjærkonstant” avhenger av skrueforspenning, vanntrykk, 
+temperatur og tid. 
+Ekspansjonsboks med flettepakning som sammentrykkes aksielt (pakkbokser) benyttes 
+hovedsakelig på rør av stål eller duktilt støpejern. Dimensjonering blir i prinsipp 
+tilsvarende som for foran nevnte koblinger. Pakningene er impregnert med talg, grafitt 
+eller liknende. Koblingstypen kan oppta store aksielle rørforskyvninger. Det er vanlig å 
+referere pakningsfriksjonsfaktor til en radiell last tilsvarende karakteristisk vanntrykk 
+virkende på pakningens berøringsareal mot bevegelig rør. Vanligvis benyttes 
+friksjonskoeffisient 0,30 mot malt stål. Er det rustfri glideflate, kan friksjonsfaktoren 
+settes til 0,25.  
+Kobling med langsgående kløv og gummitetninger benyttes for GRP-rør og består av delt 
+muffe hvor ringlast i kløv overføres ved skrueforbindelse. Tetningene er vanligvis 
+EPMD-gummi (NS-EN 681). Kobling hvor innvendig undertrykk kan forekomme, bør ha 
+innvendig støttehylse som hindrer at tetning suges inn mellom rørendene. I liten grad kan 
+koblingen overføre skjærlast, eventuell støttehylse til tross. Dobbelmantlede koblinger 
+bør ikke benyttes. Koblingen er ikke konstruert for å gli på røret, men opptar mindre 
+aksiell rørbevegelse tilsvarende som kobling med gummipakning og aksiell forspenning. 
+Muffekobling av GRP eller duktilt støpejern for henholdsvis GRP-rør og duktile 
+støpejernsrør virker i prinsippet på samme måten som koblinger med radiell 
+sammenholding både med hensyn på friksjon og last. Enkelte konstruksjoner sentreres i 
+forhold til rørskjøt. Kobling utført med støtteskulder kan til en viss grad overføre 
+skjærlast. 
+Få muffekoblingstyper kan overføre aksiell strekklast. Koblinger med kontinuerlig 
+sentringsribber av gummi kan overføre mindre trykklast. For frittliggende rør skal det 
+imidlertid her alltid være en viss aksiell klaring for å kunne oppta temperaturutvidelse. 
+Ved nedgravde rør må behovet for klaring vurderes fra tilfelle til tilfelle.  
+ 
+ 
+47 
+G. 2 
+Fundamentering av frittliggende rør 
+G. 2.1 
+Fundamenttyper  
+Frittliggende rør fastholdes med ett forankringsfundament og understøttes av ett eller 
+flere mellomfundament med avstand tilpasset rørtypens bæreevne i lengderetning. 
+Mellomfundament gir røret anledning til bevegelse i lengderetning mens det som regel 
+fastholdes i de andre hovedretningene. Ved overgang mot tilstøtende rørstreng benyttes 
+vanligvis en ekspansjonsboks for å utligne trykk og temperaturbevegelser. Strekkfaste rør 
+legges normalt i rett linje mellom hvert forankringsfundament hvor en også fastholder 
+eventuelle bend. Spesielt trerør eller PE-rør legges imidlertid ofte i en bue ved en egnet 
+utførelse av mellomfundamentene. 
+Ved rørtrasé hvor det anvendes enkeltrør med ikke strekkfaste skjøter, skal hvert enkelt 
+rør fastholdes med ett fundament og understøttes med ett eller flere mellomfundament. 
+Unntaksvis kan røret på den ene siden understøttes direkte i tilstøtende rørs muffe eller 
+kobling under forutsetning av at skjærkreftene ikke ødelegger tettefunksjonen. Klaringen 
+i skjøtene mellom rørene skal være tilstrekkelig til at rørene ikke går i hverandre ved 
+trykk- eller temperaturendringer. Enkeltrør med muffer eller koblinger kan vinkles noe i 
+hver skjøt.  
+G. 2.2 
+Forankringsfundament  
+Forankringsfundament påkjennes av rørets egenvekt, miljølast og ikke utlignet 
+vanntrykkslast fra tverrsnittsoverganger, bend etc. I tillegg kommer sum av 
+friksjonskrefter fra mellomfundamenter, eventuelle koblinger og ekspansjoner.  
+Det forutsettes lik temperatur- eller trykkendring for rør på begge sider av et 
+forankringsfundament, men vanligvis 25 % forskjell mellom sidenes friksjonsfaktor. For 
+frittliggende 12 meter lange GRP-rør kan aksiallastforskjell for koblinger bli 30 %.  
+G. 2.3 
+Mellomfundament  
+Mellomfundament påkjennes av last fra egenvekt av rør og vann, miljølast og 
+friksjonslast i aksiell retning. I tillegg kan en få en tverrlast fra rør som er lagt i en bue. 
+For friksjonslasten kan en anta:  
+I Pendel- og rullefundamenter gir små friksjonskrefter som beregnes ut fra rulle- og 
+tappfriksjon. 
+I Ved opplagring i gummifundamenter hvor temperaturendringene gir 
+skjærdeformasjon, avhenger kreftene av utførelse, forskyvning og temperatur. 
+I Ved opplagring av stålrør med glideflate i rustfritt stål mot PE-plast eller 
+tilsvarende, eller ved GRP-rør mot en glideflate av PE-plast kan friksjonsfaktor 
+settes lik 0,30 for enkeltfundament og lik 0,25 som middel for alle fundamenter. 
+I Ved opplagring av malt stålrør eller duktilt støpejernsrør mot betong med 
+bitumen- eller tjærepappmellomlegg eller mot en malt stålsadel, kan 
+friksjonsfaktor settes lik 0,60 for enkeltfundament og lik 0,50 som middel for alle 
+fundamentene. 
+ 
+ 
+48 
+G. 2.4 
+Systemstabilitet, samvirke rør og fundament 
+Rør med muffeskjøter eller muffekoplinger belastes på endeflatene med en aksialkraft 
+tilsvarende karakteristisk trykk på en flate begrenset av rørets ytterdiameter. Friksjon pga. 
+trykk- og temperatur-deformasjon i understøttelser eller skjøter kan gi en aksiell 
+tilleggskraft. Hvis seksjonen ikke har en strekkfast forbindelse mot tilstøtende rør, kan 
+den betraktes som en trykkstav som kan knekke ut pga. aksialkreftene hvis avstanden 
+mellom fundamentene er for stor. Problemet vil først oppstå i vertikalplanet pga 
+nedbøyningen fra vekt av rør og vann.  
+For rørbend vil aksialkreftene gi en tverrlast som ved strekkfaste rør primært overføres til 
+tilstøtende rør i form av tilleggsspenninger og deretter videre inn mot forankrings-
+fundamentene på begge sider.  For rørbend som ikke har en strekkfast forbindelse mot 
+tilstøtende rør på den ene eller på begge sider vil aksialkreftene gi en tverrlast som må tas 
+opp direkte i et fundament.  
+Muffeskjøter eller koblinger kan likeledes, tilsiktet eller på grunn av 
+montasjeunøyaktighet, få en avvinkling som gir en tverrlast. Hvis rørene ikke er 
+strekkfaste vil tverrlasten overføres direkte mot nærmeste fundamentet som ved bend. 
+Hvis koblingen eller muffeskjøten er utenfor fundamentene, kan deformasjonen i den 
+utkragete rørdelen forverre forholdene.  
+Ved beregningene benyttes en montasjeunøyaktighet på minst 0.5o samt rørmaterialets E-
+modul og fundamentenes deformasjonsmodul (stivhet). Ved GRP- eller PE-rør benyttes 
+rørmaterialets aksielle langtids E-modul. Det antas vanligvis at rørfundamenter, muffer 
+og koblinger ikke overfører innspenningsmoment. Ved fundamenter på fjell er det 
+vanligvis bare behov for å kontrollere GRP-rør og PE-rør.  
+G. 3 
+Fundamentering av nedgravde rør  
+G. 3.1 
+Rørgrøft og omfylling  
+Nedgravde rør monteres vanligvis i rørgrøft over grunnvannsspeil. Fundamentet i 
+rørgrøfta skal være stabilt og avrettet, og det skal ikke forekomme oppstikkende 
+fjellknatter eller steiner. De graderte omfyllingsmassene inn mot rørveggen skal minst ha 
+en tykkelse på 0,3 m, og innfylles slik at utvendig røroverflate eller korrosjonsbeskyttelse 
+ikke skades. I fjellgrøft skal tykkelsen på grøftesålen være 0,3 m, mens sålen i 
+løsmassegrøft minst må være 0,2 m. Grøftesåle og omfyllingsmasse skal komprimeres for 
+at rør og rørfundamenter blir liggende stabilt uten fare for setninger eller uforutsigbare 
+tilleggspåkjenninger. Geoteknisk tekstil (filterduk) legges i den grad det blir nødvendig 
+for å beskytte omfyllingen for finstoffinntrengning.  
+Overdekningen skal minst være 0,8 m og gå 1,5 ganger rørdiameter til hver side for 
+røraksen. Dertil kommer eventuell frostisolasjon med toppdekking. Hvis det forventes 
+trafikklast skal minimum overdekning bestemmes spesielt, og eventuelt dokumenteres 
+ved beregning, se også kap. 2.3.  
+Leggeanvisning for øvrig skal være i henhold til beskrivelse utarbeidet av fagansvarlig, jf. 
+kap. 6.6. 
+ 
+ 
+49 
+G. 3.2 
+Tiltak mot utvasking 
+Nødvendige tiltak gjøres mot utgraving/utvasking av omfyllingsmassene både ved 
+montasje og senere drift. Dette kan være drenasjerør, avskjærende grøfter, sperrer og 
+lignende. 
+G. 3.3 
+Sikring mot aksiell forskyvning og utknekking  
+Rørledningen monteres slik at rørene er sikret mot aksiell forskyvning og utknekking (rør 
+skal ikke stokke seg eller gli ut av en kopling). Benyttes det strekkfaste koblinger 
+monteres de ofte slik at det er strekk i rørstrengen etter montasje og før rørfylling.  
+Bend og andre formstykker uten strekkfaste skjøter skal vanligvis stabiliseres ved hjelp 
+av egenvekt, vannvekt og jordtrykk, eventuelt støpes inn. Fundamentene kan utføres med 
+fotplate. For nedgravde rør med muffer/koblinger vil overdekningssmassen bidra til 
+stabilisering av krefter ved avvinkling. Ved beregninger benyttes en 
+montasjeunøyaktighet på minst 0,5°. Det skal for vertikal- og sideveis kraft uten 
+strekkfaste skjøter kun regne med stabiliserende bidrag fra overdekningsmassen vertikalt 
+over røret, og maksimalt i en lengde på 1/3 av lengden på tilstøtende rør. 
+Overdekningsmassen regnes til opprinnelig terreng. Oppfylling over dette nivået kan bare 
+regnes med etter egne stabiliseringstiltak. Stabiliserende bidrag fra rør- og vannvekt 
+gjelder også i en lengde på 1/3 av lengden på tilstøtende rør. Passivt (og aktivt) jordtrykk 
+mellom rør og omfyllingsmasser skal ikke medregnes. 
+Nedgravde rør som ikke ligger stabilt med omfyllingsmasser alene må sikres med 
+forankringsfundamenter.   
+G. 3.4 
+Strekkfaste rør uten ekspansjonsboks  
+Nedgravde strekkfaste rør, spesielt sveist stålrør med bend og tverrsnittsoverganger kan, 
+hvis rørstrengen ikke har ekspansjonsboks, monteres uten annen forankring enn 
+endeforankringer. Aktuell montasjetemperatur skal da legges til grunn ved fastlegging av 
+endefundamentlastene. Rør og rørskjøter kontrolleres beregningsmessig uten 
+medvirkning av omfyllingsmassene for trykk- og temperaturendringer og skal ikke 
+overstige grensene i henhold til kapittel 4.2.  
+Nedgravde viskoelastiske rør, som PE-rør som kan legges i en jevn bue, skal kontrolleres 
+ved bruk av korttids E-modul. Det forutsettes at rørene ikke forskyves og 
+jevnføringsspenningene ved trykk- eller temperaturdeformasjoner skal da ikke overstige 
+tillatte spenninger i henhold til kapittel 4.6.  
+G. 4 
+Innstøpte rør 
+G. 4.1 
+Rørets ulike partier 
+Innstøpte rør har vanligvis 3 hovedstrekninger: 
+I Innløpsparti med injeksjonsskjerm. Det blir vanligvis ikke injisert langs røret 
+nedstrøms injeksjonsskjermen med mindre det oppstår betydelige innstøpingsfeil. 
+I Hovedrør, som dimensjoneres spesielt, med overgang til inn- og utløpsparti. 
+I Utløpsparti, som kan dimensjoneres som frittliggende rør. 
+ 
+ 
+50 
+G. 4.2 
+Dimensjonering  
+For innløpspartiet blir dimensjoneringen tilsvarende som for platekasse ved 
+tverrslagsport.  
+Hovedrøret kontrolleres for 3 lasttilfeller: 
+I Innvendig trykk. Med samvirke mellom rør, omstøping og fjell. 
+I Innvendig trykk. Uten samvirke mellom rør, omstøping og fjell. 
+I Utvendig trykk og tømt rør. Med samvirke mellom rør, omstøping og fjell. 
+Ved overslagsberegninger kan en for de to første lasttilfellene regne røret som 
+frittliggende og kontinuerlig lagret. For stålrør tillates det da en ringspenning referert til 
+karakteristisk innvendig trykk, uten samtidig virkende utvendig trykk, på inntil 90 % av 
+karakteristisk materialfasthet Re, dvs. (γf • γm = 1,1). Dette forutsettes god innstøping med 
+minimal spalt mellom rør og betong samt mellom betong og fjell slik at noe av 
+vanntrykkslasten kan påregnes overført til fjell, og at fjellet har en overdekning som er 
+tilstrekkelig til å bære største statiske vanntrykk. 
+Ved overslagsberegninger for det siste lasttilfellet, kan en ta utgangspunkt i den vertikale 
+fjelloverdekningen (over røret) og anta tilsvarende stort utvendig vanntrykk.  
+Et normalt godt innstøpt stålrør tåler et utvending trykk før innknekking tilsvarende H = 
+400 000 • (r/t) -1,75  [mVs], hvor r = rørradius [mm] og t = veggtykkelsen [mm]. Her 
+benyttes en sikkerhetsfaktor (γf • γm) = 1,5.  
+Mer omfattende beregninger ved belastning med innvendig trykk forutsetter kjennskap til 
+fjellets egenskaper i ulike retninger langs rørtraséen og skal ta hensyn til 
+deformasjonsegenskapene til fjell/betong samt den spalten som kan oppstå mellom 
+rørvegg og omliggende betong ved avkjøling og permanent deformasjon av fjell/betong. 
+Ved samvirke mellom rør, omstøpt betong og fjell skal maksimal rørspenning ikke 
+overskride vanlig akseptverdi i bruddgrensetilstand, for stålrør tilsvarende 66,6 % av 
+karakteristisk materialfasthet eller flytespenning Re (γf • γm = 1,5). 
+Uten samvirke mellom rør, omstøping og fjell, skal maksimal rørspenning ikke 
+overskride 90 % av karakteristisk strekkfasthet Rm (γf • γm = 1,1). Det forutsettes at en har 
+en materialkvalitet og utførelse som gjør at en kan få plastisk deformasjon uten at tillatte 
+kjerver, sveisefeil etc. gir et ustabilt brudd. Ved andre materialtyper skal karakteristisk 
+materialfasthet Re benyttes. 
+Mer omfattende beregninger ved belastning med utvendig trykk og tomt rør forutsetter 
+grundige vurderinger av geolog med hensyn til fjellets materialtekniske egenskaper, 
+geometri og drenerende hulrom langs rørtraséen i tillegg til injeksjonsskjermens 
+beliggenhet. 
+For innstøpte rør med 100-200 m fjelloverdekning er vanligvis avstanden til dagen 
+dimensjonerende for utvendig trykk. For dypereliggende rør, hvor avstanden til overflaten 
+er vesentlig større enn avstanden til drenerende hulrom, er lokalt poretrykk den 
+dominerende belastning. Poretrykket er avhengig av fjellets tetthet og dreneringsevne mot 
+hulrom. Det bør likevel aldri regnes med et utvendig trykk mindre enn 100 - 200 m. Bruk 
+ 
+ 
+51 
+av dreneringsåpninger, mindre dreneringsboringer eller dreneringsrør regnes ikke som 
+permanent avlastning. 
+Sikkerhetsfaktoren mot innknekking, (γf • γm), avhenger av kvaliteten på 
+grunnlagsdataene og beregningsmetodikken, men bør uansett ikke være mindre enn 1,25. 
+Dimensjoneringen skal gjøres i henhold til anerkjente teorier som tar hensyn til alle 
+forhold. I Norge og internasjonalt er det vanlig å vise til E. Amstutz 3. teori som 
+eksempelvis ble offentliggjort i Water Power november 1970.  
+Dersom det for hovedrøret er utilstrekkelig fjelloverdekning bør røret beregnes som 
+frittliggende som for utløpspartiet. 
+G. 5 
+Kommentarer knyttet til ulike rørtyper 
+G. 5.1 
+Stålrør 
+Mindre og mellomstore rør leveres vanligvis som serieproduserte langs- eller spiralsveiste 
+rør. I konsekvensklasse 1 kan det benyttes rør levert etter NS-EN 10224 for nedgravde rør 
+og rør montert innendørs. Øvrige rør i konsekvensklasse 1 samt rør i konsekvensklasse 2 
+kan benytte NS-EN 10217-1. Ved behov for fasthetsklasse S 355 må det benyttes en 
+tilpasset spesifikasjon. I konsekvensklasse 3 kan seriefremstilte rør i henhold til NS-EN 
+10217-3 benyttes.  
+Rør for større trykk og/eller dimensjoner er normalt ikke serieproduserte. Disse valses og 
+sveises sammen av platemateriale. I konsekvensklasse 1 og 2 kan det benyttes stål i 
+henhold til NS-EN 10025-1, mens det i konsekvensklasse 3 og høyere bør være stål i 
+henhold til NS-EN 10025-3, alternativt NS-EN 10028-3. 
+Bend og forgreninger sveises opp av rørdeler med nødvendige forsterkninger. Mindre 
+bend kan produseres ved varmbøying av rette rør. 
+Ved seriefremstilte rør og komponenter etter NS-EN 10217 eller 10224 foreligger det:  
+Minimumskrav til prøver og dokumentasjon av rørleveransen: 
+I Alle rør og rørdeler påføres varig merking for å sikre sporbarhet. All 
+dokumentasjon skal overleveres sammen med rørleveransen. 
+I For rør og rørdeler som sammenføyes ved anleggssveising skal det fra leverandør 
+eller montasjefirma leveres sveiseprosedyrer.  
+For rør eller rørdeler som kobles med muffer eller egne koblinger, skal det leveres egen 
+dokumentasjon på muffenes eller koblingens egnethet. 
+Dokumentasjon i henhold til NS-EN 10204-”type 2.2”:  
+I Rør i henhold til NS-EN 10224 prøves etter testkategori ”Ikke spesifikk kontroll”.  
+I Rør i henhold til NS-EN 10217-1 prøves etter testkategori ” Ikke spesifikk 
+kontroll”, kvalitet TR1.  
+Dokumentasjon i henhold til NS-EN 10204-”type 3.1”:  
+ 
+ 
+52 
+I Rør i henhold til NS-EN 10217-1 prøves i henhold til kvalitet TR2. For 
+frittliggende rør spesifiseres at slagseighetsprøve tas ved -10 ºC (opsjon 5). Ved 
+fasthetsklasse S 355 benyttes -20 ºC.  
+I Rør i henhold til NS-EN 10217-3 etter testkategori 1 har nødvendig 
+dokumentasjon som standard. For rør i bruddkonsekvensklasse 4, eller for rør 
+hvor forholdet P•D er spesielt høyt kan testkategori 2 benyttes i tillegg til de ulike 
+opsjonene for tilleggstester som standarden muliggjør.  
+Tilleggskrav må avtales spesielt. 
+Ved stykkfremstilte stålrør og komponenter er det krav til verksted, sveisere og 
+kontrollopplegg i henhold til NS-EN 13445. Spesielt vektlegges dette for rør i 
+konsekvensklasse 2 og 3, eller ved bruk av materialer med høyere fasthet enn S 235 
+og/eller veggtykkelse over 10 mm. Eventuell varmebehandling etter kalddeformering kan 
+vurderes i henhold til NS-EN 13445-4. 
+Krav til toleranser og til sveiseforbindelser vurderes generelt etter NS-EN 13445. For 
+komponenter som er utmattingspåkjente, tillates ikke sveis med kantsår. I rør hvor det vil 
+bli stor vannhastighet, er det vanlig at innvendig sveiseoverflate slipes. 
+Krav til varmebehandling av sveiser vurderes etter NS-EN 13445-4. Generelt bør sveis 
+varmebehandles ved materialtykkelse over 35 mm. Ved bruk av finkornstål og enkle 
+konstruksjoner som sylinder eller kuleskall kan en øke godstykkelsen uten 
+varmebehandling opp til 50 mm, forutsatt at det foreligger prosedyreprøver og 
+bruddmekaniske vurderinger som godtgjør at akseptable mekaniske egenskaper oppnås. 
+Spesielle eller kompliserte komponenter som eksempelvis bukserør i konsekvensklasse 2 
+og 3 vil vanligvis verkstedsprøves med innvendig trykk tilsvarende 1,5 x karakteristisk 
+trykk. 
+For montasjesveiser vurderes krav og kontrollprosedyrer etter NS-EN 13445. 
+Lengdeutvidelse for stål er ca 1,2 mm/m og 100 ºC temperaturendring (12·10-6 ºC-1). 
+G. 5.2 
+Duktile støpejernsrør  
+Rør av sentrifugalstøpt, duktilt støpejern er et standardisert masseprodukt. Tilhørende 
+rørdeler kan være press- eller sandstøpte. Rørmaterialet har dårlige 
+sprøbruddsegenskaper, noe det skal tas hensyn til når duktile støpejernsrør velges.  
+Rør i henhold til NS-EN 545 har strekkgrense Rm ≥ 420 MPa og minst 7–10 % 
+bruddforlengelse. For rørdeler skal bruddforlengelsen være minst 5 %. Påregnelig 
+elastisitetsgrense med tilhørende flytespenning Re blir 270 MPa eller 300 MPa avhengig 
+av bruddforlengelsen. Verken elastisitetsgrense eller slagarbeid måles eller garanteres ved 
+en standardleveranse i henhold til NS-EN 545 i motsetning til en leveranse etter 
+amerikansk standard ANSI/AWWA C 151.  I henhold til denne skal flytegrensen være 
+minimum 290 MPa, og slagseigheten minimum 9,5 Joule CVN ved + 21 °C og 4,1 Joule 
+ved - 40 °C. 
+Lengdeutvidelse for duktilt støpejern er ca 1,1 mm/m og 100 ºC temperaturendring 
+(11·10-6 ºC-1). 
+ 
+ 
+53 
+Rør og rørdeler dimensjoneres med følgende presiseringer: 
+I Karakteristisk innvendig trykk er aktuelt statisk trykk tillagt dynamisk trykk slik 
+dette fremgår av pkt. 6.2. Ringspenning med lastfaktor γf = 1,0 skal da ikke 
+overskride maksimal ringspenningsverdi angitt i pkt. 4.4. 
+I Frittliggende rør kontrolleres for langsgående bøyespenninger mellom 
+opplagringene og for lokale bøyespenninger ved opplager. I midtspenn og ved 
+opplagre skal sammenligningsspenning i bruddgrensetilstand med γf = 1,0 ikke 
+overskride maksimal jevnføringsspenning angitt i pkt. 4.4.  
+I Nedgravde rør kontrolleres mot utvendige påkjenninger fra jordtrykk og 
+trafikklaster. Ved kontroll i henhold til NS-EN 545 bør beregnet initiell 
+ovalisering ikke overstige 50 % av verdiene vist i standardens tabell C. 1. 
+Vanlige rørdeler i tykkelsesklasse 12, bortsett fra T-rør, kan styrkemessig være tilpasset 
+rette rør i tykkelsesklasse K9 rør. Pakningssystemene kan på sin side medføre at 
+karakteristisk trykk må begrenses til 2,6 - 4,0 MPa, tiltagende med minskende diameter. 
+Ved høyere trykk må en vanligvis benytte spesielle løsninger. 
+Ved høyt trykk har strekkfaste forbindelser begrensede muligheter til å overføre hele 
+trykket.  
+Det benyttes vanligvis muffeskjøter av type Tyton eller tilsvarende med hydraulisk 
+tettende pakning av EPDM-gummi. Boltemuffe-skjøter brukes helst bare på frittliggende 
+rør, og eventuelt på spesielle rørdeler, og kan gi andre trykkbegrensninger enn selve røret. 
+Generell dokumentasjon: 
+Alle rør og rørdeler påføres varig merking for å sikre sporbarhet.  
+All dokumentasjon inklusive måledata skal overleveres sammen med rørleveransen.  
+Dokumentasjon i henhold til NS-EN 10204-”type 2.2”:  
+I Samtlige rør og fittings underkastes visuell kontroll og målkontroll. Videre tas 
+stikkprøvekontroll av leveransen i henhold til NS-EN 545, vedlegg F og kapittel 
+6. Det tas minst ett fullt prøvesett for hver diameter og tykkelsesklasse.  
+I Samtlige rør og fittings tetthetsprøves minst tilsvarende karakteristiske trykk, dog 
+minimum tilsvarende kravene i henhold til NS-EN 545 tabell 14. Hvis utstyret 
+ikke kan tetthetsprøves opp mot karakteristisk trykk skal det dokumenters i 
+henhold til NS-EN 10204.”type 3.1”  
+I Det dokumenteres at rør og koblingssystem har gjennomgått typetester i henhold 
+til NS-EN 545 kapittel 5 og 7 for et driftstrykk minst tilsvarende rørets 
+karakteristiske trykk, dog minimum tilsvarende kravene for K9 rør 
+Dokumentasjon i henhold til NS-EN 10204-”type 3.1”:  
+I tillegg til dokumentasjon etter NS-EN 10204-”type 2.2”: 
+ 
+I Det tas minst 2 komplette sett med materialprøver for hver 
+dimensjon/tykkelsesklasse, utført i henhold til NS-EN 545, som viser flytegrense, 
+bruddgrense, bruddforlengelse og hårdhet. Diagram fra strekkprøvene vedlegges 
+dokumentasjonen, og alle verdier skal overstige minimumsverdiene i henhold til 
+ 
+ 
+54 
+NS-EN 545. Prøvene skal tas fra starten og mot slutten av hver produksjonslinje 
+og ikke fra samme magnesiumbehandlete smelte. 
+I Hvert sett med materialprøver skal i tillegg inkludere 3 Charpy V-
+skårslaghetsprøver ved + 21oC og 3 ved -40oC iht. ASI/AWWA C 151/A21.51. 
+Korrigert akseptverdi skal være minimum 9.5 J ved +21oC, 4.0 J ved -40oC. 
+I Hvis rør eller fittings ikke kan tetthetsprøves til karakteristisk trykk skal 
+veggtykkelse dokumenters ved omfattende målinger. For rør kan tykkelsesmåling 
+gjøres langs en generatrise med maksimum 0,5 m avstand mellom målepunktene. 
+G. 5.3 
+GRP-rør  
+Rør av glassfiberarmert, umettet polyester leveres som oftest som et standardisert 
+produkt, men kan også dimensjoneres for aktuelle forhold. Rørene produseres etter to 
+ulike prinsipper: 
+I Sentrifugalstøping i utvendig stålmantel, normalt 6 meter lengde. 
+I Kontinuerlig viklet på innvendig kjerne, valgfri lengde, ofte 6 eller 12 meter. 
+Rørdeler blir ved moderate trykk sammenlaminert av rette rørseksjoner. Ved høye trykk 
+anvendes rørdeler av stål. Spesielt gjelder dette bukserør.  
+GRP-rørene har som regel ulik fasthet i aksiell og tangentiell retning. Rørene svekkes ved 
+langvarig belastning. Ved etterkontroll av rør benyttes tøyning i stedet for tillatt spenning. 
+Svekkelsen medfører at rørene må levetidsdimensjoneres. I kraftverksrørs 
+temperaturområde er mekaniske egenskaper lite temperaturavhengige. 
+Temperaturutvidelsen for GRP-rør er ca dobbelt så stor som for stål. Lengdeutvidelse for 
+normalt armerte GRP-rør er ca. 2,4 – 3,0 mm/m og 100 ºC temperaturendring (24·10-6 - 
+30·10-6 ºC-1) i aksiell retning og ca. 0,8 mm/m og 100 ºC temperaturendring (8·10-6 ºC-1) i 
+tangentiell retning (ringretning). 
+Rørene leveres i normerte trykklasser for innvendig karakteristisk trykk fra 6 bar til 32 
+bar og stivhetsklasser opp til 10 000 N/m2 i henhold til NS-EN 1796 alternativt NS-EN 
+14364. Rør med stivhetsklasse under 5000 N/m2 er ikke innknekkingssikre ved korttids 
+undertrykk og bør ikke benyttes.  
+Valg av rørtype, nominelt trykk, rørstivhet etc. må gjøres ut fra bruksområde, 
+leggeforhold, osv. slik at resulterende sikkerhet mot brudd blir tilfredsstillende i henhold 
+til NVEs krav. Standardens trykklasse så vel som minimumskrav til stivhetsklasse og 
+aksiell fasthet er tilpasset rør for nedgraving. Frittliggende rør på fundamenter får 
+tilleggspåkjenninger som må vurderes spesielt. 
+NS-EN 1796 stiller typekrav til koblinger, bend og T-stykker for bruk sammen med 
+standardiserte rør. Komponentene skal ha minst samme mekaniske styrke som tilstøtende 
+rør. Fleksible, ikke strekkfaste koblinger skal typetestes for blant annet undertrykk samt 
+overtrykk på det dobbelte av nominelt trykk kombinert med vinkelavvik og saksing. En 
+kombinasjon med vekslende aksiell forskyvning, som har vært et problem for visse 
+mekaniske koblinger, inngår ikke i typetesten. 
+Rør og rørdeler kan leveres i henhold til serie B1 NS-EN 1796 med E-type 
+glassfiberarmering eller tilsvarende standarder. Frittliggende rør skal ha et UV-bestandig 
+yttersjikt. 
+ 
+ 
+55 
+Vanligvis brukes glassfiberarmerte muffekoblinger ved nyanlegg. Koblinger med radiell 
+sammenholding og selvtettende gummilepper benyttes fortrinnsvis ved rørdeler og 
+overganger til andre konstruksjoner. De fleste koblingstypene tåler i liten grad 
+skjærkrefter, og ingen av koblingstypene er strekkfaste, noe det må tas hensyn til ved 
+fundamenteringen. Aksielle trykkrefter skal ikke overføres direkte via tilstøtende 
+rørender, men kan til en viss grad overføres via koblinger med en sentreringsring av 
+gummi. 
+Det er vesentlig for sikkerheten at det ikke oppstår forskyvninger mellom rør og 
+koblinger. 
+Nedgravde rør utsatt for langtids utvendige påkjenninger kan ovaliseres pga. jordtrykket, 
+og en kan også få ujevne setninger eller forskyvninger. Frittliggende rør kan likeledes få 
+deformasjoner på grunn av fundamentsvikt eller siging/utbøyning. Nevnte forhold må 
+kontrolleres ved eldre konstruksjoner. 
+Generell dokumentasjon:  
+I Alle rør og rørdeler påføres varig merking for å sikre sporbarhet.  
+All dokumentasjon skal overleveres sammen med rørleveransen.  
+Dokumentasjon i henhold til NS-EN 10204-”type 2.2”: 
+I Samtlige rør underkastes visuell kontroll og målkontroll.  
+I tillegg tas stikkprøvekontroll av leveransen i henhold til NS-EN 1796, ”Quality 
+control test purposes”. For stikkprøvekontroll av initial aksiell respektive 
+tangentiell bruddstyrke i henhold til EN 1393 respektive EN 1394 kan det 
+benyttes trykkprøving til brudd, alternativt strekkprøver av rørveggen etter 
+leverandørens valg. For øvrig dokumenteres korttids ringstivhet, utherding og 
+sammensetning av rørveggen med glassfiberandel.  
+I  Måleresultatene skal dokumenteres sammen med akseptkriteriene. 
+Akseptkriteriene skal kunne dokumenteres ut fra leverandørens generelle 
+dokumentasjon fra typeprøvene, eksempelvis regresjonsanalyse og 
+variasjonskoeffisient ved korttidsprøving.  
+I Rørdeler for bend eller andre komponenter som medfører sammenlaminering kan 
+dokumenteres i henhold til NS-EN 10204-2.1. Lamineringsdelen skal 
+dokumenteres særskilt, eksempelvis med typetester i henhold til NS-EN 1796 
+kapittel 7.5 for skjøter som skal tåle fullt endebunnstrykk, eller kapittel 7.6 for 
+flenskoblinger. Selve utførelsen dokumenteres i henhold til NS-EN 10204-”type 
+2.2”.  
+I Muffekoblinger i forbindelse med leveransen kan dokumenteres i henhold til NS-
+EN 10204-2.1 under henvisning til fabrikkens kvalitetssikringssystem og 
+generelle kvalifikasjonstester etter NS-EN 1796. 
+I Mekaniske koblinger i forbindelse med leveransen kan dokumenteres i henhold 
+til NS-EN 10204-2.1 som ovenfor. 
+I For koblinger av type Straub, Teekay eller tilsvarende skal dokumentasjonen 
+inneholde koblingens hovedmål, herunder materialkvalitet og tykkelse på mantel 
+og mantelskuldre, skruetype med materialkvalitet, dimensjon og 
+tiltrekningsmoment ved bruk på GRP-rør. 
+ 
+ 
+56 
+Dokumentasjon i henhold til NS-EN 10204-”type 3.1”: 
+I tillegg til dokumentasjon etter NS-EN 10204-”type 2.2” som vist over: 
+I Alle rør skal tetthetsprøves med et trykk på minimum 2 ganger normtrykket. 
+I For tangentiell styrke skal den benyttede regresjonsanalysen samt 
+variasjonskoeffisienten sannsynliggjøres. Dokumentasjonen kan foregå i henhold 
+til NS-EN 705 kapittel 4.5 eller en tilsvarende metode hvor variasjonskoeffisient 
+fastlegges ut fra korttidsprøver og hvor regresjonslinjens helning fastlegges ut fra 
+korttidsprøver og 100-timers-prøver. Prøvene kan gjøres som prøver med 
+innvendig trykk i kortere rør eller tangentielle strekkprøver av rørveggen. Ved 
+strekkprøver kan det for sammenhengen mellom tangentielt strekk og innvendig 
+trykk vises til leverandørens generelle dokumentasjon.  
+G. 5.4 
+PE-rør  
+Rørene ekstruderes fra polyetylen-granulat i en kontinuerlig prosess og kappes i fabrikken 
+til ønsket lengde bestemt av transport- og montasjemulighetene. Råvarene har blitt 
+forbedret gjennom mange år, og rørene leveres nå mest i kvalitet PE 80 og PE 100, hvor 
+tallene angir bruddspenning (MRS) i bar (= 0,1 MPa) ved en kontinuerlig belastning i 50 
+år. Materialet er viskoelastisk med egenvekt ca 955 kg/m3, lengdeutvidelse 16 - 18 mm/m 
+og 100 ºC temperaturendring (ca. 13 ganger mer enn stål) og lav E-modul. Kortids E-
+modul er ca 5 ganger krypmodulen etter 50 års belastning.  
+Spenningsberegninger skal generelt utføres med både korttids- og langtidsbelastning for å 
+sjekke hva som blir dimensjonerende for PE-røret, og sammenlignes med tillatt 
+spenningsnivå etter kapittel 4.6. Hvis deformasjonene over tid kan endre spenningsbildet 
+eller ha stabilitetsmessig betydning, skal beregningene også gjøres med krypmodulen.  
+For dimensjoner som benyttes ved tilløpsrør til kraftverk er speilsveising den vanlige 
+sammenføyningsmåten, og prosessen benyttes også ved sammensveising av rørdeler. 
+Sveiseutstyret for større rør kan taues med terrenggående kjøretøy eller flyttes med 
+helikopter. 
+Ved flensforbindelser benyttes påsveiste flenskrager med løsflenser, de sistnevnte 
+vanligvis utført av stål. På grunn av PE-materialets siging under belastning kan en bare 
+benytte flenstetninger som er hydraulisk tettende selv ved betydelige deformasjoner, 
+eksempelvis store, relativt myke O-ringer eller leppetetninger. Flenskonstruksjonen må 
+forhindre vridning eller overbelastning av tetteflater under montasje eller senere drift. 
+Flenskonstruksjonen bør heller ikke belastes med større aksialspenninger pga egenvekt 
+eller temperaturdeformasjoner.        
+Rørene egner seg best nedgravd i grøft eller innstøpt og slik at en ikke får særlig større 
+temperaturvariasjoner i røret enn det en har i tilløpsvannet. Ved frittliggende strekninger 
+kan rørene enten understøttes og fastholdes slik at de ligger i ro og slik at spenningene 
+uansett driftstilstand ikke overstiger grensene i henhold til kapittel 4.6. Alternativt kan 
+rørene legges slik at de fritt kan bevege seg ved trykk eller temperaturvariasjoner og på 
+den måten minimalisere tilleggsspenningene i røret. I så fall skal deformasjonsmønsteret 
+være veldefinert, og rørene skal bevege seg på glideskinner eller glideflater for å unngå 
+skader eller tilleggspåkjenninger. Rørenes permanente krumningsradius skal ikke bli 
+mindre enn 60 ganger ytterdiameteren.  
+ 
+ 
+57 
+Et spesielt bruksområde er sjøledninger, eksempelvis i forbindelse med vanninntak. 
+Rørene holdes her på plass ved betonglodd,   
+Det benyttes bare standardiserte, fabrikkfremstilte rør med tilhørende rørdeler i henhold 
+til NS-EN 12201 m/nasjonalt tillegg og INSTA SBC 12201. Dette skal være kontrollert 
+gjennom tredjepartskontroll bestyrt av INSTA-CERT og produktene skal være merket 
+med sertifiseringsmerket Nordic Poly Mark eller tredjepartsverifisert til samme 
+kvalitetsnivå. 
+Generell dokumentasjon: 
+I Alle rør og rørdeler påføres varig merking for å sikre sporbarhet.  
+All dokumentasjon skal overleveres sammen med leveransen.  
+I Dokumentasjon i henhold til NS-EN 10204-”type 2.2”: 
+I Kopi av inspeksjonssertifikat for anvendte råmaterialer. Her angis egenvekt, 
+viskositet for smeltemasse (MFR) og termisk stabilitet (OIT) i henhold til ISO 
+1183 og EN 728.  
+I Produksjonskontroll av rørveggsmateriale i henhold til INSTA SBC 12201 tabell 
+7 inkl. viskositet smeltemasse (MFR) og termisk stabilitet for hver start og stopp i 
+produksjonen.  
+I Produksjonskontroll av utseende og dimensjoner i henhold til INSTA SBC 1221 
+tabell 7. Samtlige rør underkastes visuell kontroll. I tillegg tas stikkprøvekontroll 
+av diameter, veggtykkelse og ovalitet av hvert rør eller minimum hver annen time 
+ved kontinuerlig rørproduksjon. 
+I Sveiseprosedyre med kontrollskjema for utførte sveiser i henhold til NS 416 (DS-
+INF 70). Sveising av PE-rør skal kun utføres av personer med gyldig sertifikat for 
+sveising av PE-rør i aktuell dimensjon. Sveisemaskin for speilsveising skal være 
+kalibrert og sertifisert i henhold til DS-INF 70-6.  
+G. 5.5 
+Trerør  
+I vassdragsanlegg benyttes kontinuerlig bygde, frittliggende stavrør.  
+Trerør tåler nesten ikke undertrykk før de kollapser. Arrangement med stengeutstyr og 
+luftinnslipping sammen med rørtrasénivåer må være slik at undertrykk aldri oppstår i noe 
+rørtverrsnitt. 
+Ikke impregnert virke skal kun benyttes i midlertidige konstruksjoner. Ved bruk av 
+impregnerte materialer kan en regne med en levetid på 40-80 år, avhengig av 
+driftsforhold og vedlikeholdsinnsats. Rørets ståldeler kan ha kortere levetid enn 
+trestavene. 
+Trerør dimensjoneres ut fra karakteristisk trykk etter ”Vassdragstilsynets regler for 
+kontinuerlig bygde trerør” (NVE 1942) med følgende utfyllende bemerkninger. 
+For stålarmering, bånd og klaver etc. benyttes stål i henhold til NS-EN 10025 med 
+kvalitetsbetegnelse JR eller bedre avhengig av dimensjon og utførelse. Ved bruk av 
+materialer med høyere fasthet enn S 235 kan armeringsspenningen økes utover 120 MPa 
+slik nevnte regler tillater. Flatetrykk mot trestav skal holdes innenfor de grensene som 
+reglene angir.  
+ 
+ 
+58 
+Det kontrolleres at innfesting av armering i strammesko, klaver med skruer, muttere og 
+skiver for overføring av kreftene til fundamenter etc. er utført pålitelig. For permanente 
+rør skal armeringsbånd, bånd over stavskjøter, klaver ved opplagre med tilhørende 
+strammesko, skruer, etc. varmforsinkes. For varmforsinkede komponenter som ikke 
+eksponeres i vann er det uvanlig å regne godstykkelsesfradrag som angitt i B.3.  
+For trerør dokumenteres anvendte stålmaterialer i henhold til NS-EN 10204-”type 2.2” og 
+trematerialer i henhold til NS-EN 338, fasthetsklasse minimum C 18. 
+G. 5.6 
+Betongrør  
+Betongrør med forspent armering er fabrikkprodusert. Armeringen har ikke den 
+betongoverdekning som vanligvis kreves for vassdragskonstruksjoner.  
+Betongrør med forspent armering egner seg best for legging i grøft eller for innstøping. I 
+tunnel, innvendig i kraft- eller pumpestasjon legges forspente betongrør i seng. 
+Alternativt kan de understøpes med understøttelsesvinkel 45° eller mer.  
+Rørskjøt tillater avvinkling fra 2° til 1°, avtagende med økende diameter. Rørene er tunge 
+og robuste. Rørdeler lages vanligvis av stål. 
+I Rørene dimensjoneres og testes ved fabrikk, spesielt for hvert anlegg i henhold til 
+NS-EN 639/642. I tillegg til vannkvalitet og karakteristisk trykk inngår 
+leggeforutsetninger som opplagring, overdekking og trafikkbelastning i 
+dimensjoneringen.  
+I Forspente betongrør dokumenteres i henhold til NS-EN 10204-”type 3.1”. For 
+hver serie diameter/trykk-klasse dimensjoneres og dokumenteres utførelsen 
+beregningsmessig. I tillegg testes minst ett rør fra hver serie i henhold til NS-EN 
+642 kapittel 4. Forspenningsstålet dokumenteres spesielt i henhold til NS-EN 642 
+tillegg A. Det vises for øvrig til generelle bestemmelser i NS-EN 639.  
+Plasstøpte betongrør hvor armeringen ikke er forspent, eksisterer. De første bygget i 
+Norge er fra før 1. verdenskrig. For plasstøpte betongrør blir det av spesiell betydning at 
+overflaten ikke frosteksponeres. 
+ 
+ 
+59 
+Vedlegg H. Vurdering av eldre 
+konstruksjoner  
+H. 1 
+Generelle betraktninger  
+Alle bestående vassdragsanlegg i konsekvensklasse 1 eller høyere skal gjennomgå en 
+grundig undersøkelse og tilstandsanalyse ved revurdering, jf. damsikkerhetsforskriften § 
+7-5. 
+I forbindelse med vurdering av eldre konstruksjoner presiseres: 
+I Dersom det for en eldre konstruksjon er uklart hvilke funksjoner som 
+konstruksjonen skal fylle, avklares funksjonene før andre vurderinger 
+gjennomføres.  
+I Dersom det ikke foreligger tilfredsstillende vannstands- eller vannføringsdata, 
+skal dette fremskaffes.  
+I Dersom det ikke foreligger tilfredsstillende data for trykkstøt eller svingegrenser i 
+vannveien, skal dette fremskaffes. En kombinasjon av dynamiske beregninger og 
+kontrollmålinger er hensiktsmessig.  
+I Er det mangler ved tidligere utførte beregninger, eller at disse ikke er oppdaterte, 
+utføres nye beregninger. Ved beregninger som skal dokumentere konstruksjonens 
+sikkerhet, legges konstruksjonens faktiske tilstand til grunn. Kapasiteten som ved 
+dette fastlegges er konstruksjonens nåtidskapasitet. 
+I Er dimensjoner ukjente, gjøres det oppmålinger. Blir dette vanskelig å 
+gjennomføre, foretas det estimeringer. Her legges ugunstige antagelser til grunn. 
+I Generelt godstykkelsesfradrag som angitt i B.2 gjøres ikke gjeldende når 
+nåtidskapasitet på eldre konstruksjon fastlegges. 
+I Kjenner man ikke aktuelle materialegenskaper, benyttes minimumsverdier slik 
+disse fremgår av det etterfølgende. 
+H. 2 
+Eldre stål  
+Mot slutten av 1800-tallet var det etablert industriell stålfremstilling ved Thomas- og 
+Bessemer-prosess. Fra disse fikk man valsede produkter som plater og profiler. Til Norge 
+ble det i hovedsak levert Thomas-stål fra Tyskland. For disse ble det satt minimale krav. 
+Bestanddeler man i dag anser som skadelige, kunne den gang bli verdsatt fordi de økte 
+materialfastheten. Senere Siemens-Martin-prosess og ulike elektrostålprosesser ga på sin 
+side kvaliteter med mindre andel forurensninger (SM-stål). Dette var av betydning hvis 
+stålet skulle sveises. Fra begynnelsen av 1900-tallet ble SM-stål derfor benyttet i 
+smisveiste kraftverksrør. Som følge av lavt karbon-, mangan- og fosforinnhold var 
+fastheten beskjeden. Dette til tross bør man som utgangspunkt stille seg skeptisk til 
+sveisbarheten for ethvert stål produsert før 1950. 
+I mellomkrigstiden begynte standardiseringen av de tyske stålene som i stor utstrekning 
+ble benyttet i Norge. Fra slutten på 30-tallet kom dessuten "Forskrifter for levering av stål 
+til den norske stat", samt tilsvarende forskrifter for levering av støpestål og støpejern. 
+Disse bygde hovedsakelig på tyske standarder. 
+ 
+ 
+60 
+For konstruksjoner levert i perioden 1950-1969 ble det som regel benyttet standardiserte 
+stålmaterialer, eksempelvis materialer i henhold til DIN 1612, senere alternativt NS 724.  
+"Handelsstål", senere stål 00, hadde ofte seigringer som medførte lamineringer i 
+platemateriale. Kjemisk sammensetning gjorde materialet på sin side eldingssprøtt og 
+dårlig egnet for sveising. For øvrige stål fra denne perioden var det kvalitetsutvikling med 
+økende vekt på homogenitet, sveisbarhet, eldingssikkerhet og fremfor alt slagseigheten 
+ved temperatur under romtemperatur. 
+For turbinrør har det siden 1950-årene vært benyttet ulike spesialstål, eksempelvis 
+kjelstålskvaliteter. De sistnevnte kan til dels sammenlignes med mer moderne stål. Bruk 
+av fullverdige manganlegerte, tettede og eldningstrege stål med krav til skårslagseighet 
+ved lav temperatur kom ved innføringen av finkornstål rundt 1960. 
+For konstruksjoner levert etter 1970 årene ble det ofte benyttet stålmaterialer i henhold til 
+NS 12101, alternativt DIN 17100, samt ulike typer finkornstål overensstemmende med 
+DIN 17102. Fra 1990-tallet er de nevnte NS- og DIN-standardene avløst av 
+felleseuropeiske standarder. 
+I Norge har det i tillegg vært lagerført stål i henhold til Det Norske Veritas 
+spesifikasjoner. DNV- spesifikasjonene har endret seg over tid, og avviker til dels fra 
+øvrige stål. Dertil kom oljebransjen med et utall spesialspesifikasjoner som til dels 
+påvirket det som fra 1970-årene var av tilgjengelige stålkvaliteter. 
+H. 3 
+Eldre materialers mekaniske egenskaper  
+Finnes det materialdata, enten i form av sertifikater eller i form av materialangivelse på 
+tegninger, forutsettes fasthetsverdier i henhold til dette. Beregningsverdien settes for 
+stålmaterialer lik minste flytespenning, men maksimalt 80 % av strekkgrensen Rm, eller 
+hvis flytegrensen er ukjent, 55 % av laveste tenkelige strekkgrense. 
+Hvis en ikke har, eller kan sannsynliggjøre materialdata, forutsettes for valset stål av 
+antatt “handelskvalitet” en elastisitetsgrense Re = 185 MPa. For støpestål settes 
+tilsvarende Re = 210 MPa. 
+Hvis en ikke har andre data, forutsettes for stålnagler en strekkgrense Rm = 340 MPa, og 
+elastisitetsgrense Re = 185 MPa. 
+For luker av støpejern uten nærmere materialangivelse forutsettes strekkgrense Rm = 140 
+MPa og tillatt strekkbøyespenning Rm / 7 = 20 MPa ved karakteristisk last når 
+materialtykkelsen i beregningstverrsnittet ikke overskrider 30 mm. 
+For konstruksjoner i tre antas fasthetsklasse C14 hvis ikke annet er dokumentert. 
+Finnes en enkelt eller noen få materialprøver, settes beregningsmessig fasthet til 90 % av 
+laveste målte verdi. 
+Eldre stålmaterialer har ofte lave slagseighetsverdier og høy omslagstemperatur.  Der 
+man ikke har slagseighetsdata eller andre bruddmekaniske egenskaper, kan man anta 
+minimumsverdi på 6,0 Joule CVN og midlere verdi på 9,0 Joule CVN ved 0 °C 
+ 
+ 
+61 
+Midlere verdi benyttes for stålmaterialer med flytegrense Re < 270 MPa som er glødd 
+etter kalddeformering eller sveising, inkludert smisveising, og sammenføyd med skruer 
+eller nagler.  Hvis materialene er kalddeformert/sveist uten etterfølgende gløding, vil 
+slagseigheten i aktuelt område reduseres til minimumsverdi. Eldre stålmaterialer med 
+høyere fasthet kan ha lavere slagseighet. 
+H. 4 
+Beregningskontroll  
+Ved beregningskontroll hvor det finnes referanser til standardiserte beregninger, 
+eksempelvis NS 424 (1935) og 424 A (1956), bør en ikke gå ut over det spenningsnivået 
+som disse standardene forutsetter.  
+Ved beregningskontroll etter metoden med partialkoeffisienter kan det benyttes følgende 
+materialfaktor for primære bøye- og membranspenninger ved bruddgrensetilstanden: 
+I Konstruksjoner levert før år 1950: 
+ 
+γm =  1,50 
+I Konstruksjoner levert årene 1950 – 1969: γm =  1,40 
+I Konstruksjoner levert årene 1970 – 1980: γm =  1,30 
+I Konstruksjoner levert etter år 1980:  
+γm =  1,25 
+Materialfaktorene ovenfor gjelder generelt ved strekk-, trykk- og bøyespenninger for 
+"handelsstål" eller for annet valset stål hvor det ikke finnes noe spesiell dokumentasjon av 
+verken stålkvalitet eller fasthetsegenskaper.  
+For duktile støpte materialer økes materialfaktoren med 25 % i forhold til tilsvarende 
+valsede materialer, jf. kapittel 4.2, siste avsnitt. 
+Ved strekkspenninger hvor kreftene ikke overføres gjennom hele tverrsnittet, eksempelvis 
+ved påsveiste konstruksjoner, bør materialfaktorene for konstruksjoner levert før 1970-
+årene økes i forhold til det angitte. Dette begrunnes med at materialene den gang ofte 
+hadde lamineringer samtidig som sveiseteknikken var ufullkommen.   
+H. 5 
+Spesielt for stenge-/tappeorganer  
+Mange lukekonstruksjoner har et uoversiktlig spenningsbilde. Detaljert beregning er bare 
+til en viss grad mulig ved hjelp av omfattende elementberegninger. Ved lineær teori kan 
+en få galt inntrykk av sikkerhetsnivået. 
+Ved en revurdering er en kontroll av globale spenninger sammen med en vurdering av 
+hvor en kan få lokale spenningsspisser vesentlig. Disse er ofte utjevnet og en inspeksjon 
+av disse områdene, eventuelt med sprekkontroll, er viktig for å vurdere konstruksjonens 
+sikkerhet. 
+Enkelte komponenter, eksempelvis lagre for segmentluker, er dimensjonert for store 
+trykkpåkjenninger i én retning, mens det forutsettes små friksjonskoeffisienter i selve 
+lageret. Hvis friksjonen øker, kan momentbelastingen på lukebena føre til sammenbrudd. 
+Kontroll av disse forholdene blir derfor viktig. 
+Noen overflateluker er i utgangspunktet ikke dimensjonert for islast. Det forutsettes da at 
+lukene har tilstrekkelig fleksibilitet/deformasjonsevne slik at islasten blir overført til 
+pilarene. For klappeluker med hydraulisk opptrekk vil sikkerhetsventil gi beskyttelse. 
+ 
+ 
+62 
+Alle luketyper bør tåle fullt istrykk som ulykkeslast, men ved revurderinger kan 
+driftserfaringer tillegges vekt. Med driftserfaringer menes spesielt registrerte isproblemer 
+gjennom lukens levetid. Videre bør det vurderes om luken i istrykkssonen kan deformeres 
+lokalt uten at den totale stabiliteten ødelegges.   
+Manøvreringskreftene som man får ved friksjonskoeffisienter som denne retningslinjen 
+anbefaler, tilsvarer det man erfaringsmessig kan få i ugunstigste tilfelle, spesielt ved 
+bevegelsesstart. Manøvreringskrefter beregnet etter eksempelvis DIN 19704 er ofte lavere 
+og gjenspeiler gjennomsnittsverdier for konstruksjoner som beveges relativt hyppig.  
+Forbindelser mellom stenge-/tappeorgan og manøvreringsinnretning er tradisjonelt 
+dimensjonert ut fra nødvendig manøvreringskraft og ikke ut fra 
+manøvreringsinnretningens kapasitet. Dette er av betydning dersom et stenge-/tappeorgan 
+kjøres mot blokkering. Ved revurdering bør man inspisere nøye de deler av 
+konstruksjonen som kan ha blitt utsatt for en slik hendelse.  
+Ved tvil om spillkapasitet, er en kombinasjon av beregninger og realistiske målinger på 
+anlegget, sammen med en vurdering av spillets overkapasitet påkrevd. For mekaniske 
+spill med elektrisk motor er motorens kippmoment, dvs. dens evne til å starte 
+manøvrering av betydning. Dertil kommer lastbryters innstilling dersom spillet er utstyrt 
+med slik. Ved hydrauliske spill kan innstilling av overtrykksvern bli vesentlig.  
+Lukkeevnen ved selvlukkende luker må foruten ved beregningskontroll alltid kontrolleres 
+på anlegget ved ugunstige forhold. 
+Styrings- og manøvreringssikkerhet er spesielt viktige for flomluker. Ved revurdering 
+kommer kartlegging av disse som tillegg til vurdering av den mekaniske 
+dimensjoneringen.   
+H. 6 
+Spesielt for rør  
+I tillegg til spenningsberegninger blir vurdering av bruddmekaniske egenskaper viktig for 
+stålrør i konsekvensklasse 2 og 3. Trykkrør og tilsvarende konstruksjoner bør "lekke før 
+de sprekker", dvs. at kritisk sprekklengde ved 0 °C skal være større enn veggtykkelsen 
+ved en spenning tilsvarende materialets flytespenning hvis materialet er sveist uten 
+etterfølgende gløding. Ved materialer som ikke har sveiser i de påkjente sonene, eller som 
+er glødd etter sveising, benyttes beregnede spenninger. 
+Et spesielt problem har en ved smisveiste rør. Ved dimensjoneringskontroll ut fra 
+materialets flytegrense, veggtykkelse og karakteristisk trykk, vil en vanligvis ved glatte, 
+smisveiste rør få en sikkerhetsfaktor SF > 1,8, tilsvarende γm = 1,50 og γf = 1,20. Rørene 
+kan imidlertid ha store bindefeil i sveisene. Fullstendig kontroll blir her kostbart. Dertil 
+kommer usikre utbedringsmuligheter. For smisveiste rør i konsekvensklasse 1 og spesielt 
+i klasse 2 anbefales det at smisveiste rør etter hvert tas ut av bruk. For rør i 
+konsekvensklasse 3 og høyere skal smisveiste rør tas ut av bruk, og NVE kan gi en 
+tidsfrist.  
+Det er ikke påvist utmattingsproblemer ved slike rør, og det er sannsynlig at rørene hvis 
+de ikke har skader, fremdeles minst tåler opprinnelig prøvetrykk, korrigert for forskjell 
+fra prøvetemperatur til driftstemperatur. Utbedringer eller endringer i ettertid, 
+eksempelvis påsveising av mannlokk, kan imidlertid medføre redusert styrke.   
+ 
+ 
+63 
+Ved bandasjerte rør, både trykkforspente og rør med påkrympede ringer, er det viktig å 
+vurdere den opprinnelige trykkprøvingen sammen med forventede påkjenninger. For rør 
+med påkrympede ringer blir produksjonsnøyaktighet av stor betydning for 
+spenningsfordelingen i konstruksjonen.  
+Eldre stålrør som er elektrisk- eller autogensveist kan ha samme kombinasjon av dårlige 
+bruddmekaniske egenskaper og store sveisefeil som smisveiste rør. 
+Ved modernisering av anlegg med eldre rør, eksempelvis ved ny regulator eller øket 
+installasjon, skal rørstyrke og mulige nye trykkstøt vurderes på forhånd.  
+Tynnveggede rør med sadelopplagring har ofte høye spenninger til side for opplagrene og 
+over kanten av sadelen. Her kan en få engangs flyting. Stabilitetsberegning etter NS-EN 
+13445 kan benyttes i stedet for en ren lineær teori. 
+For frittliggende eldre rør finnes det ofte ikke tegninger av fundamentutførelse, heller 
+ikke annen dokumentasjon om det er brukt fjellbolter der fundamentene står på fjell. Ved 
+revurdering av eldre anlegg skal fundamentene da stabilitetskontrolleres uten hensyn tatt 
+til fjellbolter. Det stilles samme krav til sikkerheten av eldre betongfundamenter som for 
+nye, jf. kapittel 6.3.  
+ 
+ 
+ 
+ 
+Denne serien utgis av Norges vassdrags- og energidirektorat (NVE)
+Utgitt i Retningslinjeserien i 2011
+Nr. 1 	
+Retningslinjer for stenge- og tappeorganer, rør og tverrslagsporter	
+ 
+Norges vassdrags- og energidirektorat
+Middelthunsgate 29
+Postboks 5091 Majorstuen,
+0301 Oslo
+Telefon: 22 95 95 95 
+Internett: www.nve.no

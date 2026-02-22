@@ -27,7 +27,7 @@ from reportlab.lib.enums import TA_LEFT, TA_CENTER, TA_RIGHT
 # ─────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Glideluke – NVE 1/2011",
-    page_icon="🔩",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded",
 )
