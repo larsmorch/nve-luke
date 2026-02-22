@@ -469,7 +469,7 @@ def generer_pdf(inp, r, fig, prosjekt, autor, dokref):
         ["Dokumentnr.:",     dokref],
         ["Dato:",            dato],
         ["Beregningsgrunnlag:", "NVE Retningslinjer 1/2011"],
-        ["Beregningsverktøy:", "Glideluke-kalkulator v1.0"],
+        ["Beregningsverktøy:", "Glideluke-kalkulator v0.1"],
     ]
     mt = Table([[Paragraph(k, BL), Paragraph(v, N)] for k,v in meta],
                colWidths=[4.5*cm, 12*cm])
@@ -613,7 +613,7 @@ def generer_pdf(inp, r, fig, prosjekt, autor, dokref):
     d = [["Størrelse","Formel","Resultat","Enhet","Ref."],
          ["Karakteristisk flytegrense Re","–", f"{Re:.0f}", "MPa", "NS-EN 10025"],
          ["Materialfaktor γ_m (med plast.res.)","NVE Tabell 4.1", f"{r['gamma_m']:.2f}", "–", "NVE §4.2"],
-         ["Dim. flytegrense f_yd","(Re · 0,8) / γ_m", f"{r['f_yd']:.1f}", "MPa", "NVE §4.2"],
+         ["Dim. flytegrense f_yd","Re / γ_m", f"{r['f_yd']:.1f}", "MPa", "NVE §4.2"],
          ["Korrosjonstillegg","1 mm per eksponert flate","1,0","mm","NVE §4.2"]]
     t6 = tabell(d, [5*cm,5*cm,2.5*cm,1.8*cm,2.7*cm])
     t6.setStyle(TableStyle([
