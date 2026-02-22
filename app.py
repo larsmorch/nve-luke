@@ -851,7 +851,7 @@ with tab_res:
     c1,c2,c3 = st.columns(3)
     with c1: st.metric("Flytegrense Re", f"{Re} MPa")
     with c2: st.metric("Materialfaktor γ_m", f"{r['gamma_m']:.2f}", help="Med plastisitetsreserve, NVE Tabell 4.1")
-    with c3: st.metric("Dim. flytegrense f_yd", f"{r['f_yd']:.1f} MPa", help="(Re × 0,8) / γ_m  –  NVE §4.2")
+    with c3: st.metric("Dim. flytegrense f_yd", f"{r['f_yd']:.1f} MPa", help="Re / γ_m  –  NVE §4.2")
 
 # ───────── TAB: FIGUR ─────────────────────────────────────
 with tab_fig:
@@ -887,7 +887,7 @@ with tab_trace:
          "Verdier":f"G={G}","Resultat":f"{r['F_lift']:.4f} kN","Ref":"NVE §5.2"},
         {"#":"12","Navn":"Aktuatorkapasitet","Formel":"F_akt = ψ · F_lift",
          "Verdier":f"ψ={r['psi']}","Resultat":f"{r['F_actuator']:.4f} kN","Ref":"NVE §5.2"},
-        {"#":"13","Navn":"Dim. flytegrense stål","Formel":"f_yd = (Re·0,8) / γ_m",
+        {"#":"13","Navn":"Dim. flytegrense stål","Formel":"f_yd = Re / γ_m",
          "Verdier":f"Re={Re}, γ_m={r['gamma_m']}","Resultat":f"{r['f_yd']:.2f} MPa","Ref":"NVE §4.2"},
     ]
     import pandas as pd
