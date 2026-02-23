@@ -42,15 +42,11 @@ $\gamma = \rho_v g$
 ## 2) Trykk (hydrostatikk)
 
 Karakteristisk terskeltrykk:
-$$
-p_k = \rho_v g\left(H_0 - h_0\right)
-$$
+$p_k = \rho_v g\left(H_0 - h_0\right)$
 
 
 Midlere karakteristisk luketrykk:
-$$
-p_{kl} = \rho_v g\left(H_0 - h_0 - \frac{h}{2}\right)
-$$
+$p_{kl} = \rho_v g\left(H_0 - h_0 - \frac{h}{2}\right)$
 
 
 ---
@@ -58,33 +54,23 @@ $$
 ## 3) Krefter fra trykk, pakninger og friksjon
 
 Total kraft på luke:
-$$
-F_l = h\,b\,p_{kl}\,\sin(\alpha)
-$$
+$F_l = h\,b\,p_{kl}\,\sin(\alpha)$
 
 
 Total kraft på sidepakninger (vanntrykk):
-$$
-F_{p,t} = 2\,h\,a\,p_{kl}
-$$
+$F_{p,t} = 2\,h\,a\,p_{kl}$
 
 
 Total kraft på sidepakninger (forspenning):
-$$
-F_{p,sk} = 2\,f_s\,\delta\,h\,\mu_p
-$$
+$F_{p,sk} = 2\,f_s\,\delta\,h\,\mu_p$
 
 
 Total kraft på toppakninger (forspenning):
-$$
-F_{p,tk} = f_t\,b\,\delta\,\mu_p
-$$
+$F_{p,tk} = f_t\,b\,\delta\,\mu_p$
 
 
 Total glidefriksjonskraft:
-$$
-F_{\mathrm{fric},g} = F_l\,\mu_g
-$$
+$F_{\mathrm{fric},g} = F_l\,\mu_g$
 
 
 ---
@@ -225,4 +211,5 @@ Kontroller at skruespillet har tilstrekkelig kapasitet ved:
 Tolkning: $U>1$ betyr at kapasitet er større enn behov (OK), mens $U<1$ betyr underkapasitet (ikke OK).
 
 ---
+
 
