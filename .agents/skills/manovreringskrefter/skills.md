@@ -218,8 +218,7 @@ Faktorer:
 
 Inline: $p=\rho g h$
 
-Block:
 $$
-F_l = h\,b\,p_{kl}\sin(\alpha)
+p_{kl}=\rho_v g\left(H_0-h_0-\frac{h}{2}\right)
 $$
 
