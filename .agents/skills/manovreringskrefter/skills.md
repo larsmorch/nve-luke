@@ -34,9 +34,7 @@ Faktorer/kapasitet:
 ## 1) Grunnstørrelser
 
 Spesifikk tyngde:
-$$
-\gamma = \rho_v g
-$$
+$\gamma = \rho_v g$
 
 
 ---
@@ -227,3 +225,4 @@ Kontroller at skruespillet har tilstrekkelig kapasitet ved:
 Tolkning: $U>1$ betyr at kapasitet er større enn behov (OK), mens $U<1$ betyr underkapasitet (ikke OK).
 
 ---
+
