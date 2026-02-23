@@ -1,4 +1,5 @@
-name: manovreringskrefter-glideluke
+name: manovreringskrefter
+
 description: Dette dokumentet beskriver hvordan man beregner manøvreringskrefter (åpne/lukke) for en trykksatt glideluke, inkl. bidrag fra vanntrykk, pakningskrefter, friksjon, hydrostatikk, egenvekt og sikkerhets-/påslagsfaktorer. Formlene under er hentet fra beregningsdokumentet  .
 
 
@@ -212,4 +213,5 @@ Faktorer:
 4. Beregn hydrostatikkbidrag \(F_{\mathrm{hyd},*}\) og evt. bruk \(FTB_t, FTB_b\) iht. dokumentet
 5. Beregn \(F_{l,\mathrm{non}}\) og \(F_{\mathrm{op},\mathrm{non}}\)
 6. Multipliser med \(\gamma_{\mathrm{man,cl}}\) og \(\gamma_{\mathrm{man,op}}\) for dimensjonerende krefter
+
 7. Kontroller \(U_{\mathrm{op}}\) og \(U_l\) mot kapasitet skruespill
