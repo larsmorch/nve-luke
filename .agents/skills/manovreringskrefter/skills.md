@@ -78,11 +78,7 @@ $F_{\mathrm{fric},g} = F_l\,\mu_g$
 ## 4) Hydrostatisk kraft på pakninger og luke (for bunntetting/topptetting-bidrag)
 
 Hydrostatisk kraft på toppakning (− opp):
-$$
-F_{\mathrm{hyd},tp}
-=
-b\,y_t\,\left(H_0 - h_0 - h\right)\,\gamma
-$$
+$F_{\mathrm{hyd},tp}=b\,y_t\,\left(H_0 - h_0 - h\right)\,\gamma$
 
 
 Hydrostatisk kraft på bunnpakning (+ ned):
@@ -211,5 +207,6 @@ Kontroller at skruespillet har tilstrekkelig kapasitet ved:
 Tolkning: $U>1$ betyr at kapasitet er større enn behov (OK), mens $U<1$ betyr underkapasitet (ikke OK).
 
 ---
+
 
 
