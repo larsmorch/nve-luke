@@ -82,27 +82,15 @@ $F_{\mathrm{hyd},tp}=b\,y_t\,\left(H_0 - h_0 - h\right)\,\gamma$
 
 
 Hydrostatisk kraft på bunnpakning (+ ned):
-$$
-F_{\mathrm{hyd},bp}
-=
-b\,y_b\,\left(H_0 - h_0\right)\,\gamma
-$$
+$F_{\mathrm{hyd},bp}=b\,y_b\,\left(H_0 - h_0\right)\,\gamma$
 
 
 Hydrostatisk kraft på luketopp (+ ned):
-$$
-F_{\mathrm{hyd},tl}
-=
-b\,t_l\,\left(H_0 - h_0 - h\right)\,\gamma
-$$
+$F_{\mathrm{hyd},tl}=b\,t_l\,\left(H_0 - h_0 - h\right)\,\gamma$
 
 
 Hydrostatisk kraft på lukebunn (− opp):
-$$
-F_{\mathrm{hyd},bl}
-=
-b\,y_{l,b}\,\left(H_0 - h_0\right)\,\gamma
-$$
+$F_{\mathrm{hyd},bl}=b\,y_{l,b}\,\left(H_0 - h_0\right)\,\gamma$
 
 
 I beregningen samles disse til:
@@ -207,6 +195,7 @@ Kontroller at skruespillet har tilstrekkelig kapasitet ved:
 Tolkning: $U>1$ betyr at kapasitet er større enn behov (OK), mens $U<1$ betyr underkapasitet (ikke OK).
 
 ---
+
 
 
 
