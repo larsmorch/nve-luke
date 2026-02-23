@@ -1,7 +1,7 @@
+---
 name: manovreringskrefter
-
 description: beskriver viser (1) formler og (2) anbefalt **bruk/arbeidsflyt** hvordan man beregner manøvreringskrefter (åpne/lukke) for en trykksatt glideluke, inkl. bidrag fra vanntrykk, pakningskrefter, friksjon, hydrostatikk, egenvekt og sikkerhets-/påslagsfaktorer.
-
+---
 # Skills: Manøvreringskrefter glideluke (GitHub Markdown + LaTeX)
 
 Dette dokumentet viser (1) formler og (2) anbefalt **bruk/arbeidsflyt** for å beregne nominelle og dimensjonerende manøvreringskrefter samt sikkerheter, slik det er gjort i beregningsdokumentet .
@@ -175,6 +175,7 @@ Kontroller at skruespillet har tilstrekkelig kapasitet ved:
 Tolkning: $U>1$ betyr at kapasitet er større enn behov (OK), mens $U<1$ betyr underkapasitet (ikke OK).
 
 ---
+
 
 
 
