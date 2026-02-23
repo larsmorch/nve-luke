@@ -215,3 +215,11 @@ Faktorer:
 6. Multipliser med \(\gamma_{\mathrm{man,cl}}\) og \(\gamma_{\mathrm{man,op}}\) for dimensjonerende krefter
 
 7. Kontroller \(U_{\mathrm{op}}\) og \(U_l\) mot kapasitet skruespill
+
+Inline: $p=\rho g h$
+
+Block:
+$$
+F_l = h\,b\,p_{kl}\sin(\alpha)
+$$
+
