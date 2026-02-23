@@ -101,21 +101,11 @@ I beregningen samles disse til:
 ## 5) Nominelle manøverkrefter
 
 Nominell lukkekraft:
-$$
-F_{l,\mathrm{non}}
-=
--\left(F_{p,t}+F_{p,sk}+F_{p,tk}+F_{\mathrm{fric},g}+F_b\right)
-+\left(W_l+W_s+W_b\right)
-$$
+$F_{l,\mathrm{non}}=-\left(F_{p,t}+F_{p,sk}+F_{p,tk}+F_{\mathrm{fric},g}+F_b\right)+\left(W_l+W_s+W_b\right)$
 
 
 Nominell åpnekraft:
-$$
-F_{\mathrm{op},\mathrm{non}}
-=
--\left(F_{p,t}+F_{p,sk}+F_{p,tk}+F_{\mathrm{fric},g}+W_l+W_s+W_b+FTB_t+FTB_b\right)
--F_b
-$$
+$F_{\mathrm{op},\mathrm{non}}=-\left(F_{p,t}+F_{p,sk}+F_{p,tk}+F_{\mathrm{fric},g}+W_l+W_s+W_b+FTB_t+FTB_b\right)-F_b$
 
 
 ---
@@ -123,15 +113,11 @@ $$
 ## 6) Dimensjonerende manøverkrefter
 
 Dimensjonerende lukkekraft:
-$$
-F_{l,\mathrm{dim}} = F_{l,\mathrm{non}}\,\gamma_{\mathrm{man,cl}}
-$$
+$F_{l,\mathrm{dim}} = F_{l,\mathrm{non}}\,\gamma_{\mathrm{man,cl}}$
 
 
 Dimensjonerende åpnekraft:
-$$
-F_{\mathrm{op},\mathrm{dim}} = F_{\mathrm{op},\mathrm{non}}\,\gamma_{\mathrm{man,op}}
-$$
+$F_{\mathrm{op},\mathrm{dim}} = F_{\mathrm{op},\mathrm{non}}\,\gamma_{\mathrm{man,op}}$
 
 
 ---
@@ -139,21 +125,15 @@ $$
 ## 7) Kapasitet og sikkerhet
 
 Kapasitet skruespill:
-$$
-F_{t,\mathrm{Rd,skruespill}} = (15\,\mathrm{tonne})\,g
-$$
+$F_{t,\mathrm{Rd,skruespill}} = (15\,\mathrm{tonne})\,g$
 
 
 Åpnesikkerhet:
-$$
-U_{\mathrm{op}}=\frac{F_{t,\mathrm{Rd,skruespill}}}{F_{\mathrm{op},\mathrm{dim}}}
-$$
+$U_{\mathrm{op}}=\frac{F_{t,\mathrm{Rd,skruespill}}}{F_{\mathrm{op},\mathrm{dim}}}$
 
 
 Lukkesikkerhet:
-$$
-U_l=\frac{F_{t,\mathrm{Rd,skruespill}}}{F_{l,\mathrm{dim}}}
-$$
+$U_l=\frac{F_{t,\mathrm{Rd,skruespill}}}{F_{l,\mathrm{dim}}}$
 
 
 ---
@@ -195,6 +175,7 @@ Kontroller at skruespillet har tilstrekkelig kapasitet ved:
 Tolkning: $U>1$ betyr at kapasitet er større enn behov (OK), mens $U<1$ betyr underkapasitet (ikke OK).
 
 ---
+
 
 
 
